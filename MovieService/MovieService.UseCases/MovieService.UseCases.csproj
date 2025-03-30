@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Marten" Version="8.0.0-alpha-3" />
+    <PackageReference Include="MediatR" Version="11.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+  
+    <PackageReference Include="Microsoft.TeamFoundationServer.Client" Version="19.225.1" />
+  
+    <PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
+  
+    <PackageReference Include="System.Formats.Asn1" Version="9.0.2" />
+  
+    <PackageReference Include="System.Net.Http" Version="4.3.4" />
+  
+    <PackageReference Include="System.Text.RegularExpressions" Version="4.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Movie.Service.Core\MovieService.Core.csproj" />
+    <ProjectReference Include="..\MovieService.Infrastructure\MovieService.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
