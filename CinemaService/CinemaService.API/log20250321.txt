@@ -1,0 +1,333 @@
+2025-03-21 07:58:59.545 +01:00 [INF] Registered 10 endpoints in 520 milliseconds.
+2025-03-21 07:58:59.938 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 07:58:59.940 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 07:58:59.944 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 07:59:00.033 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 07:59:00.034 +01:00 [INF] Hosting environment: Development
+2025-03-21 07:59:00.035 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 08:02:59.168 +01:00 [INF] Registered 10 endpoints in 616 milliseconds.
+2025-03-21 08:02:59.652 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 08:02:59.654 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 08:02:59.659 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 08:02:59.755 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 08:02:59.756 +01:00 [INF] Hosting environment: Development
+2025-03-21 08:02:59.757 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 08:04:17.158 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/9801dcbb-6609-4cf0-9bd5-08dd64b800f5 - null null
+2025-03-21 08:04:17.203 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 08:07:28.545 +01:00 [INF] Registered 10 endpoints in 485 milliseconds.
+2025-03-21 08:07:28.894 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 08:07:28.895 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 08:07:28.902 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 08:07:28.977 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 08:07:28.978 +01:00 [INF] Hosting environment: Development
+2025-03-21 08:07:28.979 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 08:09:31.663 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/9801dcbb-6609-4cf0-9bd5-08dd64b800f5 - null null
+2025-03-21 08:09:31.702 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 08:09:31.762 +01:00 [INF] Handling GetHallByIdRequest
+2025-03-21 08:09:31.763 +01:00 [INF] Property Id : "00000000-0000-0000-0000-000000000000"
+2025-03-21 08:11:58.531 +01:00 [INF] Registered 10 endpoints in 481 milliseconds.
+2025-03-21 08:11:58.848 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 08:11:58.849 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 08:11:58.854 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 08:11:59.402 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 08:11:59.402 +01:00 [INF] Hosting environment: Development
+2025-03-21 08:11:59.403 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 08:12:34.883 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/9801dcbb-6609-4cf0-9bd5-08dd64b800f5 - null null
+2025-03-21 08:12:34.924 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 08:12:34.982 +01:00 [INF] Handling GetHallByIdRequest
+2025-03-21 08:12:34.984 +01:00 [INF] Property Id : "00000000-0000-0000-0000-000000000000"
+2025-03-21 08:23:38.204 +01:00 [INF] Registered 10 endpoints in 552 milliseconds.
+2025-03-21 08:23:38.605 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 08:23:38.607 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 08:23:38.613 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 08:23:39.215 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 08:23:39.216 +01:00 [INF] Hosting environment: Development
+2025-03-21 08:23:39.216 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 08:23:59.975 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/9801dcbb-6609-4cf0-9bd5-08dd64b800f5 - null null
+2025-03-21 08:24:00.024 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 08:24:00.085 +01:00 [INF] Handling GetHallByIdRequest
+2025-03-21 08:24:00.087 +01:00 [INF] Property Id : "00000000-0000-0000-0000-000000000000"
+2025-03-21 09:24:41.482 +01:00 [INF] Registered 10 endpoints in 418 milliseconds.
+2025-03-21 09:24:41.907 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 09:24:41.910 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 09:24:41.919 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 09:24:42.016 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 09:24:42.017 +01:00 [INF] Hosting environment: Development
+2025-03-21 09:24:42.018 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 09:25:40.594 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/9801dcbb-6609-4cf0-9bd5-08dd64b800f5 - null null
+2025-03-21 09:25:40.634 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 09:25:40.681 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 09:25:40.683 +01:00 [INF] Property hallId : "00000000-0000-0000-0000-000000000000"
+2025-03-21 09:26:41.264 +01:00 [INF] Registered 10 endpoints in 448 milliseconds.
+2025-03-21 09:26:41.560 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 09:26:41.562 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 09:26:41.567 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 09:26:41.655 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 09:26:41.656 +01:00 [INF] Hosting environment: Development
+2025-03-21 09:26:41.657 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 09:28:34.409 +01:00 [INF] Registered 10 endpoints in 497 milliseconds.
+2025-03-21 09:28:34.760 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 09:28:34.764 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 09:28:34.770 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 09:28:34.869 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 09:28:34.871 +01:00 [INF] Hosting environment: Development
+2025-03-21 09:28:34.871 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 09:32:12.031 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/b2790a69-3f55-4af5-9bd4-08dd64b800f5 - null null
+2025-03-21 09:32:12.070 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 09:32:12.122 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 09:32:12.123 +01:00 [INF] Property hallId : "00000000-0000-0000-0000-000000000000"
+2025-03-21 09:45:25.599 +01:00 [INF] Registered 10 endpoints in 492 milliseconds.
+2025-03-21 09:45:25.988 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 09:45:25.990 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 09:45:25.995 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 09:45:26.076 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 09:45:26.077 +01:00 [INF] Hosting environment: Development
+2025-03-21 09:45:26.078 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 09:45:27.837 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/b2790a69-3f55-4af5-9bd4-08dd64b800f5 - null null
+2025-03-21 09:45:27.879 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 09:45:27.932 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 09:45:27.934 +01:00 [INF] Property hallId : "00000000-0000-0000-0000-000000000000"
+2025-03-21 09:48:25.997 +01:00 [INF] Registered 10 endpoints in 420 milliseconds.
+2025-03-21 09:48:26.313 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 09:48:26.315 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 09:48:26.320 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 09:48:26.410 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 09:48:26.411 +01:00 [INF] Hosting environment: Development
+2025-03-21 09:48:26.411 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 09:48:37.567 +01:00 [INF] Registered 10 endpoints in 414 milliseconds.
+2025-03-21 09:48:37.887 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 09:48:37.888 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 09:48:37.893 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 09:48:37.964 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 09:48:37.965 +01:00 [INF] Hosting environment: Development
+2025-03-21 09:48:37.966 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 09:48:45.435 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/b2790a69-3f55-4af5-9bd4-08dd64b800f5 - null null
+2025-03-21 09:48:45.475 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 09:48:45.537 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 09:48:45.538 +01:00 [INF] Property hallId : "00000000-0000-0000-0000-000000000000"
+2025-03-21 09:50:00.102 +01:00 [INF] Registered 10 endpoints in 558 milliseconds.
+2025-03-21 09:50:00.435 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 09:50:00.437 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 09:50:00.441 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 09:50:01.044 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 09:50:01.045 +01:00 [INF] Hosting environment: Development
+2025-03-21 09:50:01.046 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 09:50:02.590 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/b2790a69-3f55-4af5-9bd4-08dd64b800f5 - null null
+2025-03-21 09:50:02.627 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 09:50:02.684 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 09:50:02.686 +01:00 [INF] Property hallId : "00000000-0000-0000-0000-000000000000"
+2025-03-21 09:53:02.206 +01:00 [INF] Registered 10 endpoints in 617 milliseconds.
+2025-03-21 09:53:02.599 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 09:53:02.601 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 09:53:02.607 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 09:53:02.713 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 09:53:02.713 +01:00 [INF] Hosting environment: Development
+2025-03-21 09:53:02.714 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 09:56:05.554 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/b2790a69-3f55-4af5-9bd4-08dd64b800f5 - null null
+2025-03-21 09:56:05.589 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 09:56:05.642 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 09:56:05.643 +01:00 [INF] Property hallId : "00000000-0000-0000-0000-000000000000"
+2025-03-21 09:56:42.441 +01:00 [INF] Registered 10 endpoints in 535 milliseconds.
+2025-03-21 09:56:42.814 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 09:56:42.816 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 09:56:42.825 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 09:56:42.898 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 09:56:42.899 +01:00 [INF] Hosting environment: Development
+2025-03-21 09:56:42.899 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 09:57:45.841 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/b2790a69-3f55-4af5-9bd4-08dd64b800f5 - null null
+2025-03-21 09:57:45.874 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 09:57:45.925 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 09:57:45.926 +01:00 [INF] Property hallId : "00000000-0000-0000-0000-000000000000"
+2025-03-21 10:15:20.122 +01:00 [INF] Registered 10 endpoints in 433 milliseconds.
+2025-03-21 10:15:20.422 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 10:15:20.425 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 10:15:20.432 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 10:15:20.529 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 10:15:20.530 +01:00 [INF] Hosting environment: Development
+2025-03-21 10:15:20.531 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 10:15:55.059 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/b2790a69-3f55-4af5-9bd4-08dd64b800f5 - null null
+2025-03-21 10:15:55.093 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 10:16:12.547 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 10:16:12.585 +01:00 [INF] Property hallId : "b2790a69-3f55-4af5-9bd4-08dd64b800f5"
+2025-03-21 10:18:31.813 +01:00 [INF] Registered 10 endpoints in 458 milliseconds.
+2025-03-21 10:18:32.130 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 10:18:32.138 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 10:18:32.144 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 10:18:32.236 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 10:18:32.237 +01:00 [INF] Hosting environment: Development
+2025-03-21 10:18:32.238 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 10:19:53.388 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/b2790a69-3f55-4af5-9bd4-08dd64b800f5 - null null
+2025-03-21 10:19:53.424 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 10:20:21.162 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 10:20:21.207 +01:00 [INF] Property hallId : "b2790a69-3f55-4af5-9bd4-08dd64b800f5"
+2025-03-21 10:24:12.291 +01:00 [INF] Registered 10 endpoints in 478 milliseconds.
+2025-03-21 10:24:12.719 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 10:24:12.721 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 10:24:12.726 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 10:24:12.816 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 10:24:12.817 +01:00 [INF] Hosting environment: Development
+2025-03-21 10:24:12.818 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 10:24:43.607 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - null null
+2025-03-21 10:24:43.647 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 10:24:57.014 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 10:24:57.054 +01:00 [INF] Property hallId : "71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4"
+2025-03-21 10:25:09.474 +01:00 [INF] Handled GetHallByIdCommand with Ardalis.Result.Result`1[RegistrationService.Core.Entities.Hall] in 12417 ms
+2025-03-21 10:25:09.494 +01:00 [INF] Executed endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 10:25:09.502 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - 200 null application/json; charset=utf-8 25900.7271ms
+2025-03-21 10:40:15.494 +01:00 [INF] Registered 10 endpoints in 797 milliseconds.
+2025-03-21 10:40:16.040 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 10:40:16.042 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 10:40:16.050 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 10:40:16.829 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 10:40:16.830 +01:00 [INF] Hosting environment: Development
+2025-03-21 10:40:16.831 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 10:40:46.391 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - null null
+2025-03-21 10:40:46.431 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 10:40:49.318 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 10:40:49.319 +01:00 [INF] Property hallId : "71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4"
+2025-03-21 10:41:04.545 +01:00 [INF] Handled GetHallByIdCommand with Ardalis.Result.Result`1[RegistrationService.Core.Entities.Hall] in 15224 ms
+2025-03-21 10:41:14.429 +01:00 [INF] Executed endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 10:41:14.439 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - 200 null application/json; charset=utf-8 28051.8556ms
+2025-03-21 10:42:30.004 +01:00 [INF] Registered 10 endpoints in 456 milliseconds.
+2025-03-21 10:42:30.309 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 10:42:30.311 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 10:42:30.318 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 10:42:30.431 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 10:42:30.432 +01:00 [INF] Hosting environment: Development
+2025-03-21 10:42:30.433 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 10:43:00.843 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - null null
+2025-03-21 10:43:00.877 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 10:43:04.799 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 10:43:04.801 +01:00 [INF] Property hallId : "71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4"
+2025-03-21 10:43:33.148 +01:00 [INF] Handled GetHallByIdCommand with Ardalis.Result.Result`1[RegistrationService.Core.Entities.Hall] in 28345 ms
+2025-03-21 10:43:43.802 +01:00 [INF] Executed endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 10:43:43.815 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - 200 null application/json; charset=utf-8 42975.773ms
+2025-03-21 11:01:44.430 +01:00 [INF] Registered 10 endpoints in 1 043 milliseconds.
+2025-03-21 11:01:44.887 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 11:01:44.889 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 11:01:44.894 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 11:01:45.612 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 11:01:45.613 +01:00 [INF] Hosting environment: Development
+2025-03-21 11:01:45.613 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 11:02:14.988 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - null null
+2025-03-21 11:02:15.043 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - 404 0 null 59.8069ms
+2025-03-21 11:02:15.052 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4, Response status code: 404
+2025-03-21 11:02:50.571 +01:00 [INF] Registered 10 endpoints in 559 milliseconds.
+2025-03-21 11:02:50.899 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 11:02:50.901 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 11:02:50.906 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 11:02:51.020 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 11:02:51.021 +01:00 [INF] Hosting environment: Development
+2025-03-21 11:02:51.021 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 11:03:13.853 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - null null
+2025-03-21 11:03:13.889 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 11:03:23.883 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 11:03:23.923 +01:00 [INF] Property hallId : "71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4"
+2025-03-21 11:03:36.334 +01:00 [INF] Handled GetHallByIdCommand with Ardalis.Result.Result`1[System.Boolean] in 12408 ms
+2025-03-21 11:03:36.344 +01:00 [INF] Executed endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 11:03:36.353 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - 200 null application/json; charset=utf-8 22502.1444ms
+2025-03-21 11:05:52.998 +01:00 [INF] Registered 10 endpoints in 475 milliseconds.
+2025-03-21 11:05:53.283 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 11:05:53.285 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 11:05:53.288 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 11:05:53.365 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 11:05:53.366 +01:00 [INF] Hosting environment: Development
+2025-03-21 11:05:53.366 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 11:06:27.280 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - null null
+2025-03-21 11:06:27.323 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 11:06:29.347 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 11:06:29.349 +01:00 [INF] Property hallId : "71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4"
+2025-03-21 11:06:32.011 +01:00 [INF] Handled GetHallByIdCommand with Ardalis.Result.Result`1[System.Boolean] in 2661 ms
+2025-03-21 11:06:32.022 +01:00 [INF] Executed endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 11:06:32.033 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - 200 null application/json; charset=utf-8 4757.6897ms
+2025-03-21 11:06:43.031 +01:00 [INF] Registered 10 endpoints in 415 milliseconds.
+2025-03-21 11:06:43.366 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 11:06:43.368 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 11:06:43.376 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 11:06:43.468 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 11:06:43.469 +01:00 [INF] Hosting environment: Development
+2025-03-21 11:06:43.470 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 11:07:28.032 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - null null
+2025-03-21 11:07:28.067 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 11:07:40.603 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 11:07:40.644 +01:00 [INF] Property hallId : "71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4"
+2025-03-21 11:08:11.225 +01:00 [INF] Handled GetHallByIdCommand with Ardalis.Result.Result`1[System.Boolean] in 30579 ms
+2025-03-21 11:08:38.679 +01:00 [INF] Executed endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 11:08:38.688 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - 200 null application/json; charset=utf-8 70659.4393ms
+2025-03-21 11:09:17.439 +01:00 [INF] Registered 10 endpoints in 535 milliseconds.
+2025-03-21 11:09:17.766 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 11:09:17.768 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 11:09:17.774 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 11:09:17.854 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 11:09:17.854 +01:00 [INF] Hosting environment: Development
+2025-03-21 11:09:17.855 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 11:09:22.672 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - null null
+2025-03-21 11:09:22.717 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 11:09:24.515 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 11:09:24.517 +01:00 [INF] Property hallId : "71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4"
+2025-03-21 11:09:30.977 +01:00 [INF] Handled GetHallByIdCommand with Ardalis.Result.Result`1[System.Boolean] in 6457 ms
+2025-03-21 11:09:30.990 +01:00 [INF] Executed endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 11:09:31.004 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - 200 null application/json; charset=utf-8 8336.1776ms
+2025-03-21 11:10:33.203 +01:00 [INF] Registered 10 endpoints in 442 milliseconds.
+2025-03-21 11:10:33.497 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 11:10:33.499 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 11:10:33.504 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 11:10:33.570 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 11:10:33.571 +01:00 [INF] Hosting environment: Development
+2025-03-21 11:10:33.572 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 11:10:42.461 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - null null
+2025-03-21 11:10:42.497 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 11:10:44.159 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 11:10:44.160 +01:00 [INF] Property hallId : "71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4"
+2025-03-21 11:10:46.099 +01:00 [INF] Handled GetHallByIdCommand with Ardalis.Result.Result`1[System.Boolean] in 1938 ms
+2025-03-21 11:10:46.109 +01:00 [INF] Executed endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 11:10:46.117 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - 200 null application/json; charset=utf-8 3661.7858ms
+2025-03-21 11:12:08.325 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - null null
+2025-03-21 11:12:08.328 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 11:12:13.431 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 11:12:13.467 +01:00 [INF] Property hallId : "71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4"
+2025-03-21 11:12:24.234 +01:00 [INF] Handled GetHallByIdCommand with Ardalis.Result.Result`1[System.Boolean] in 10765 ms
+2025-03-21 11:12:35.422 +01:00 [INF] Executed endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 11:12:35.424 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - 200 null application/json; charset=utf-8 27098.9433ms
+2025-03-21 11:14:16.538 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - null null
+2025-03-21 11:14:16.541 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 11:14:17.668 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 11:14:17.669 +01:00 [INF] Property hallId : "71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4"
+2025-03-21 11:14:19.762 +01:00 [INF] Handled GetHallByIdCommand with Ardalis.Result.Result`1[System.Boolean] in 2092 ms
+2025-03-21 11:14:19.764 +01:00 [INF] Executed endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 11:14:19.765 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - 200 null application/json; charset=utf-8 3226.7072ms
+2025-03-21 11:14:42.723 +01:00 [INF] Registered 10 endpoints in 415 milliseconds.
+2025-03-21 11:14:43.043 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 11:14:43.044 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 11:14:43.050 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 11:14:43.653 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 11:14:43.654 +01:00 [INF] Hosting environment: Development
+2025-03-21 11:14:43.655 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 11:15:12.857 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - null null
+2025-03-21 11:15:12.896 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 11:15:17.863 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 11:15:17.905 +01:00 [INF] Property hallId : "71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4"
+2025-03-21 11:15:22.379 +01:00 [INF] Handled GetHallByIdCommand with Ardalis.Result.Result`1[System.Boolean] in 4472 ms
+2025-03-21 11:15:22.390 +01:00 [INF] Executed endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 11:15:22.401 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - 200 null application/json; charset=utf-8 9547.659ms
+2025-03-21 11:56:01.803 +01:00 [INF] Registered 10 endpoints in 481 milliseconds.
+2025-03-21 11:56:02.130 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-21 11:56:02.131 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-21 11:56:02.137 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-21 11:56:02.228 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-21 11:56:02.229 +01:00 [INF] Hosting environment: Development
+2025-03-21 11:56:02.229 +01:00 [INF] Content root path: C:\Users\jan.hrabe1\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-21 11:56:09.693 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - null null
+2025-03-21 11:56:09.734 +01:00 [INF] Executing endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 11:56:10.691 +01:00 [INF] Handling GetHallByIdCommand
+2025-03-21 11:56:10.693 +01:00 [INF] Property hallId : "71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4"
+2025-03-21 11:56:12.710 +01:00 [INF] Handled GetHallByIdCommand with Ardalis.Result.Result`1[System.Boolean] in 2015 ms
+2025-03-21 11:56:12.728 +01:00 [INF] Executed endpoint 'HTTP: GET /halls/{hallId}'
+2025-03-21 11:56:12.740 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/halls/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - 200 null application/json; charset=utf-8 3050.0307ms
+2025-03-21 12:08:47.898 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - null null
+2025-03-21 12:08:47.902 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-21 12:08:47.910 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-21 12:08:47.911 +01:00 [INF] Property HallId : "71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4"
+2025-03-21 12:08:48.943 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 1030 ms
+2025-03-21 12:08:48.951 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-21 12:08:48.952 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/71daa7b8-a30d-4cfe-4d3b-08dd6859fdd4 - 200 null application/json; charset=utf-8 1055.0322ms

@@ -1,0 +1,1178 @@
+2025-03-13 09:49:53.543 +01:00 [INF] Registered 2 endpoints in 236 milliseconds.
+2025-03-13 09:49:53.614 +01:00 [INF] No validators found in the system!
+2025-03-13 09:49:53.741 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 09:49:53.743 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 09:49:53.748 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 09:49:53.828 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 09:49:53.829 +01:00 [INF] Hosting environment: Development
+2025-03-13 09:49:53.831 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 09:49:55.970 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-03-13 09:49:56.093 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 404 0 null 124.1401ms
+2025-03-13 09:49:56.107 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/, Response status code: 404
+2025-03-13 09:50:00.777 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Swagger - null null
+2025-03-13 09:50:00.788 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Swagger - 302 0 null 10.8547ms
+2025-03-13 09:50:00.797 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.html - null null
+2025-03-13 09:50:00.823 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.html - 200 null text/html; charset=utf-8 25.8293ms
+2025-03-13 09:50:00.864 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/swagger-ui.css - null null
+2025-03-13 09:50:00.878 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.css - null null
+2025-03-13 09:50:00.878 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/swagger-ui-bundle.js - null null
+2025-03-13 09:50:00.878 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/swagger-ui-standalone-preset.js - null null
+2025-03-13 09:50:00.879 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-13 09:50:00.880 +01:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-03-13 09:50:00.880 +01:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-03-13 09:50:00.887 +01:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-03-13 09:50:00.892 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 13.1504ms
+2025-03-13 09:50:00.893 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/swagger-ui.css - 200 152073 text/css 28.9966ms
+2025-03-13 09:50:00.894 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.css - 200 218 text/css 16.5183ms
+2025-03-13 09:50:00.899 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/swagger-ui-standalone-preset.js - 200 230294 text/javascript 20.5822ms
+2025-03-13 09:50:00.916 +01:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-03-13 09:50:00.925 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/swagger-ui-bundle.js - 200 1452754 text/javascript 46.6294ms
+2025-03-13 09:50:00.959 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2025-03-13 09:50:01.007 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 48.1349ms
+2025-03-13 09:50:01.147 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-03-13 09:50:01.163 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/favicon-32x32.png - null null
+2025-03-13 09:50:01.166 +01:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-03-13 09:50:01.166 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json; charset=utf-8 19.4366ms
+2025-03-13 09:50:01.167 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/favicon-32x32.png - 200 628 image/png 3.9958ms
+2025-03-13 09:52:47.339 +01:00 [INF] Registered 2 endpoints in 206 milliseconds.
+2025-03-13 09:52:47.410 +01:00 [INF] No validators found in the system!
+2025-03-13 09:52:47.522 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 09:52:47.523 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 09:52:47.528 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 09:52:47.610 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 09:52:47.611 +01:00 [INF] Hosting environment: Development
+2025-03-13 09:52:47.622 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 09:52:52.400 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-03-13 09:52:52.521 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 404 0 null 122.5656ms
+2025-03-13 09:52:52.535 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/, Response status code: 404
+2025-03-13 09:52:55.359 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Swagger - null null
+2025-03-13 09:52:55.369 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Swagger - 302 0 null 9.9736ms
+2025-03-13 09:52:55.379 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.html - null null
+2025-03-13 09:52:55.406 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.html - 200 null text/html; charset=utf-8 26.6849ms
+2025-03-13 09:52:55.466 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-13 09:52:55.472 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 6.0901ms
+2025-03-13 09:52:55.486 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2025-03-13 09:52:55.518 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.4255ms
+2025-03-13 09:52:55.695 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-03-13 09:52:55.716 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json; charset=utf-8 20.399ms
+2025-03-13 09:53:05.038 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Halls - application/json 22
+2025-03-13 09:53:05.043 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 09:53:05.092 +01:00 [INF] Handling CreateHallComand
+2025-03-13 09:53:05.093 +01:00 [INF] Property name : Sál 1
+2025-03-13 09:53:05.833 +01:00 [INF] Handled CreateHallComand with Ardalis.Result.Result`1[System.Guid] in 738 ms
+2025-03-13 09:53:05.839 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 09:53:05.847 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Halls - 200 null application/json; charset=utf-8 809.1771ms
+2025-03-13 09:53:31.624 +01:00 [INF] Request starting HTTP/2 PUT https://localhost:7254/Halls/Update - application/json 65
+2025-03-13 09:53:31.627 +01:00 [INF] Executing endpoint 'HTTP: PUT /Halls/Update'
+2025-03-13 09:53:31.643 +01:00 [INF] Handling UpdateHallComand
+2025-03-13 09:53:31.644 +01:00 [INF] Property Id : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 09:53:31.646 +01:00 [INF] Property hallStatus : "OutOfOperation"
+2025-03-13 09:53:31.940 +01:00 [INF] Handled UpdateHallComand with Ardalis.Result.Result in 292 ms
+2025-03-13 09:53:31.944 +01:00 [INF] Executed endpoint 'HTTP: PUT /Halls/Update'
+2025-03-13 09:53:31.945 +01:00 [INF] Request finished HTTP/2 PUT https://localhost:7254/Halls/Update - 200 null application/json; charset=utf-8 320.9859ms
+2025-03-13 10:42:46.794 +01:00 [INF] Registered 3 endpoints in 185 milliseconds.
+2025-03-13 10:42:46.864 +01:00 [INF] No validators found in the system!
+2025-03-13 10:42:46.963 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 10:42:46.964 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 10:42:46.968 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 10:42:47.046 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 10:42:47.047 +01:00 [INF] Hosting environment: Development
+2025-03-13 10:42:47.048 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 10:42:49.610 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-03-13 10:42:49.746 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 404 0 null 136.6469ms
+2025-03-13 10:42:49.759 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/, Response status code: 404
+2025-03-13 10:42:57.209 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Swagger - null null
+2025-03-13 10:42:57.220 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Swagger - 302 0 null 11.842ms
+2025-03-13 10:42:57.228 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.html - null null
+2025-03-13 10:42:57.257 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.html - 200 null text/html; charset=utf-8 28.6904ms
+2025-03-13 10:42:57.321 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-13 10:42:57.328 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 7.1766ms
+2025-03-13 10:42:57.341 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2025-03-13 10:42:57.377 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.565ms
+2025-03-13 10:42:57.433 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-03-13 10:42:57.455 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json; charset=utf-8 21.7207ms
+2025-03-13 10:43:17.344 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Rows - application/json 69
+2025-03-13 10:43:17.348 +01:00 [INF] Executing endpoint 'HTTP: POST /Rows'
+2025-03-13 10:43:17.402 +01:00 [INF] Handling CreateRowComand
+2025-03-13 10:43:17.403 +01:00 [INF] Property Number : 1
+2025-03-13 10:43:17.404 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 10:43:18.151 +01:00 [INF] Handled CreateRowComand with Ardalis.Result.Result`1[System.Guid] in 745 ms
+2025-03-13 10:43:18.157 +01:00 [INF] Executed endpoint 'HTTP: POST /Rows'
+2025-03-13 10:43:18.165 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Rows - 200 null application/json; charset=utf-8 820.9881ms
+2025-03-13 10:52:38.896 +01:00 [INF] Registered 4 endpoints in 191 milliseconds.
+2025-03-13 10:52:38.957 +01:00 [INF] No validators found in the system!
+2025-03-13 10:52:39.053 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 10:52:39.054 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 10:52:39.058 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 10:52:39.138 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 10:52:39.138 +01:00 [INF] Hosting environment: Development
+2025-03-13 10:52:39.139 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 10:52:41.812 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-03-13 10:52:41.941 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 404 0 null 130.561ms
+2025-03-13 10:52:41.956 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/, Response status code: 404
+2025-03-13 10:52:48.246 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Swagger - null null
+2025-03-13 10:52:48.258 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Swagger - 302 0 null 11.6877ms
+2025-03-13 10:52:48.266 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.html - null null
+2025-03-13 10:52:48.295 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.html - 200 null text/html; charset=utf-8 28.0832ms
+2025-03-13 10:52:48.353 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-13 10:52:48.358 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 5.1514ms
+2025-03-13 10:52:48.379 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2025-03-13 10:52:48.402 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 22.9595ms
+2025-03-13 10:52:48.483 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-03-13 10:52:48.514 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json; charset=utf-8 30.3184ms
+2025-03-13 10:53:01.281 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Rows/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 10:53:01.285 +01:00 [INF] Executing endpoint 'HTTP: GET /Rows/GetByHallId/{Id}'
+2025-03-13 10:53:01.322 +01:00 [INF] Handling GetByHallIdCommand
+2025-03-13 10:53:01.323 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 10:53:02.152 +01:00 [INF] Handled GetByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 827 ms
+2025-03-13 10:53:02.162 +01:00 [INF] Executed endpoint 'HTTP: GET /Rows/GetByHallId/{Id}'
+2025-03-13 10:53:02.170 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Rows/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 888.7409ms
+2025-03-13 10:53:46.004 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Rows - application/json 69
+2025-03-13 10:53:46.007 +01:00 [INF] Executing endpoint 'HTTP: POST /Rows'
+2025-03-13 10:53:46.029 +01:00 [INF] Handling CreateRowComand
+2025-03-13 10:53:46.031 +01:00 [INF] Property Number : 2
+2025-03-13 10:53:46.032 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 10:53:46.182 +01:00 [INF] Handled CreateRowComand with Ardalis.Result.Result`1[System.Guid] in 148 ms
+2025-03-13 10:53:46.185 +01:00 [INF] Executed endpoint 'HTTP: POST /Rows'
+2025-03-13 10:53:46.188 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Rows - 200 null application/json; charset=utf-8 183.551ms
+2025-03-13 10:53:48.248 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Rows/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 10:53:48.251 +01:00 [INF] Executing endpoint 'HTTP: GET /Rows/GetByHallId/{Id}'
+2025-03-13 10:53:48.252 +01:00 [INF] Handling GetByHallIdCommand
+2025-03-13 10:53:48.253 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 10:53:48.267 +01:00 [INF] Handled GetByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 12 ms
+2025-03-13 10:53:48.269 +01:00 [INF] Executed endpoint 'HTTP: GET /Rows/GetByHallId/{Id}'
+2025-03-13 10:53:48.270 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Rows/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 21.9884ms
+2025-03-13 10:54:05.098 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Halls - application/json 22
+2025-03-13 10:54:05.101 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 10:54:05.107 +01:00 [INF] Handling CreateHallComand
+2025-03-13 10:54:05.107 +01:00 [INF] Property name : Sál 2
+2025-03-13 10:54:05.131 +01:00 [INF] Handled CreateHallComand with Ardalis.Result.Result`1[System.Guid] in 22 ms
+2025-03-13 10:54:05.134 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 10:54:05.135 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Halls - 200 null application/json; charset=utf-8 37.1675ms
+2025-03-13 10:54:20.059 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Rows - application/json 69
+2025-03-13 10:54:20.061 +01:00 [INF] Executing endpoint 'HTTP: POST /Rows'
+2025-03-13 10:54:20.062 +01:00 [INF] Handling CreateRowComand
+2025-03-13 10:54:20.063 +01:00 [INF] Property Number : 2
+2025-03-13 10:54:20.064 +01:00 [INF] Property HallId : "0e5e2a18-86bc-49ef-35ed-08dd6214fdaa"
+2025-03-13 10:54:20.069 +01:00 [INF] Handled CreateRowComand with Ardalis.Result.Result`1[System.Guid] in 4 ms
+2025-03-13 10:54:20.072 +01:00 [INF] Executed endpoint 'HTTP: POST /Rows'
+2025-03-13 10:54:20.073 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Rows - 200 null application/json; charset=utf-8 13.803ms
+2025-03-13 10:54:23.144 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Rows/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 10:54:23.147 +01:00 [INF] Executing endpoint 'HTTP: GET /Rows/GetByHallId/{Id}'
+2025-03-13 10:54:23.149 +01:00 [INF] Handling GetByHallIdCommand
+2025-03-13 10:54:23.150 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 10:54:23.155 +01:00 [INF] Handled GetByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 3 ms
+2025-03-13 10:54:23.156 +01:00 [INF] Executed endpoint 'HTTP: GET /Rows/GetByHallId/{Id}'
+2025-03-13 10:54:23.158 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Rows/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 13.2208ms
+2025-03-13 10:54:29.443 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Rows/GetByHallId/0E5E2A18-86BC-49EF-35ED-08DD6214FDAA - null null
+2025-03-13 10:54:29.447 +01:00 [INF] Executing endpoint 'HTTP: GET /Rows/GetByHallId/{Id}'
+2025-03-13 10:54:29.448 +01:00 [INF] Handling GetByHallIdCommand
+2025-03-13 10:54:29.449 +01:00 [INF] Property HallId : "0e5e2a18-86bc-49ef-35ed-08dd6214fdaa"
+2025-03-13 10:54:29.452 +01:00 [INF] Handled GetByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 2 ms
+2025-03-13 10:54:29.454 +01:00 [INF] Executed endpoint 'HTTP: GET /Rows/GetByHallId/{Id}'
+2025-03-13 10:54:29.455 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Rows/GetByHallId/0E5E2A18-86BC-49EF-35ED-08DD6214FDAA - 200 null application/json; charset=utf-8 12.131ms
+2025-03-13 11:25:43.939 +01:00 [INF] Registered 5 endpoints in 199 milliseconds.
+2025-03-13 11:25:44.008 +01:00 [INF] No validators found in the system!
+2025-03-13 11:25:44.104 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 11:25:44.105 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 11:25:44.110 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 11:25:44.183 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 11:25:44.184 +01:00 [INF] Hosting environment: Development
+2025-03-13 11:25:44.184 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 11:25:47.529 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-03-13 11:25:47.654 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 404 0 null 126.1606ms
+2025-03-13 11:25:47.669 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/, Response status code: 404
+2025-03-13 11:25:50.555 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Swagger - null null
+2025-03-13 11:25:50.566 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Swagger - 302 0 null 10.8275ms
+2025-03-13 11:25:50.574 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.html - null null
+2025-03-13 11:25:50.600 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.html - 200 null text/html; charset=utf-8 26.2674ms
+2025-03-13 11:25:50.663 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-13 11:25:50.670 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 6.5352ms
+2025-03-13 11:25:50.682 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2025-03-13 11:25:50.717 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.0612ms
+2025-03-13 11:25:50.777 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-03-13 11:25:50.799 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json; charset=utf-8 21.5888ms
+2025-03-13 11:26:09.893 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Seats - application/json 68
+2025-03-13 11:26:09.896 +01:00 [INF] Executing endpoint 'HTTP: POST /Seats'
+2025-03-13 11:26:09.953 +01:00 [INF] Handling CreateSeatCommand
+2025-03-13 11:26:09.955 +01:00 [INF] Property Number : 1
+2025-03-13 11:26:09.955 +01:00 [INF] Property RowId : "6c17ade6-2522-4f77-45bb-08dd62137bd5"
+2025-03-13 11:26:10.674 +01:00 [INF] Handled CreateSeatCommand with Ardalis.Result.Result`1[System.Guid] in 715 ms
+2025-03-13 11:26:10.682 +01:00 [INF] Executed endpoint 'HTTP: POST /Seats'
+2025-03-13 11:26:10.691 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Seats - 200 null application/json; charset=utf-8 797.8552ms
+2025-03-13 11:26:41.240 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Seats - application/json 68
+2025-03-13 11:26:41.243 +01:00 [INF] Executing endpoint 'HTTP: POST /Seats'
+2025-03-13 11:26:41.246 +01:00 [INF] Handling CreateSeatCommand
+2025-03-13 11:26:41.247 +01:00 [INF] Property Number : 2
+2025-03-13 11:26:41.248 +01:00 [INF] Property RowId : "6c17ade6-2522-4f77-45bb-08dd62137bd5"
+2025-03-13 11:26:41.307 +01:00 [INF] Handled CreateSeatCommand with Ardalis.Result.Result`1[System.Guid] in 57 ms
+2025-03-13 11:26:41.309 +01:00 [INF] Executed endpoint 'HTTP: POST /Seats'
+2025-03-13 11:26:41.310 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Seats - 200 null application/json; charset=utf-8 70.4948ms
+2025-03-13 11:26:44.724 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Seats - application/json 68
+2025-03-13 11:26:44.727 +01:00 [INF] Executing endpoint 'HTTP: POST /Seats'
+2025-03-13 11:26:44.729 +01:00 [INF] Handling CreateSeatCommand
+2025-03-13 11:26:44.730 +01:00 [INF] Property Number : 3
+2025-03-13 11:26:44.731 +01:00 [INF] Property RowId : "6c17ade6-2522-4f77-45bb-08dd62137bd5"
+2025-03-13 11:26:44.746 +01:00 [INF] Handled CreateSeatCommand with Ardalis.Result.Result`1[System.Guid] in 14 ms
+2025-03-13 11:26:44.748 +01:00 [INF] Executed endpoint 'HTTP: POST /Seats'
+2025-03-13 11:26:44.749 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Seats - 200 null application/json; charset=utf-8 25.5871ms
+2025-03-13 11:26:47.996 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Seats - application/json 68
+2025-03-13 11:26:48.000 +01:00 [INF] Executing endpoint 'HTTP: POST /Seats'
+2025-03-13 11:26:48.001 +01:00 [INF] Handling CreateSeatCommand
+2025-03-13 11:26:48.002 +01:00 [INF] Property Number : 4
+2025-03-13 11:26:48.003 +01:00 [INF] Property RowId : "6c17ade6-2522-4f77-45bb-08dd62137bd5"
+2025-03-13 11:26:48.007 +01:00 [INF] Handled CreateSeatCommand with Ardalis.Result.Result`1[System.Guid] in 3 ms
+2025-03-13 11:26:48.009 +01:00 [INF] Executed endpoint 'HTTP: POST /Seats'
+2025-03-13 11:26:48.010 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Seats - 200 null application/json; charset=utf-8 14.0446ms
+2025-03-13 11:28:09.106 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Seats - application/json 68
+2025-03-13 11:28:09.109 +01:00 [INF] Executing endpoint 'HTTP: POST /Seats'
+2025-03-13 11:28:09.111 +01:00 [INF] Handling CreateSeatCommand
+2025-03-13 11:28:09.111 +01:00 [INF] Property Number : 1
+2025-03-13 11:28:09.112 +01:00 [INF] Property RowId : "0207abef-8ce9-4791-79cf-08dd6214f254"
+2025-03-13 11:28:09.118 +01:00 [INF] Handled CreateSeatCommand with Ardalis.Result.Result`1[System.Guid] in 4 ms
+2025-03-13 11:28:09.133 +01:00 [INF] Executed endpoint 'HTTP: POST /Seats'
+2025-03-13 11:28:09.141 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Seats - 200 null application/json; charset=utf-8 34.7519ms
+2025-03-13 11:28:16.867 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Seats - application/json 68
+2025-03-13 11:28:16.870 +01:00 [INF] Executing endpoint 'HTTP: POST /Seats'
+2025-03-13 11:28:16.872 +01:00 [INF] Handling CreateSeatCommand
+2025-03-13 11:28:16.872 +01:00 [INF] Property Number : 2
+2025-03-13 11:28:16.873 +01:00 [INF] Property RowId : "0207abef-8ce9-4791-79cf-08dd6214f254"
+2025-03-13 11:28:16.878 +01:00 [INF] Handled CreateSeatCommand with Ardalis.Result.Result`1[System.Guid] in 4 ms
+2025-03-13 11:28:16.879 +01:00 [INF] Executed endpoint 'HTTP: POST /Seats'
+2025-03-13 11:28:16.880 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Seats - 200 null application/json; charset=utf-8 13.851ms
+2025-03-13 11:28:20.532 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Seats - application/json 68
+2025-03-13 11:28:20.534 +01:00 [INF] Executing endpoint 'HTTP: POST /Seats'
+2025-03-13 11:28:20.535 +01:00 [INF] Handling CreateSeatCommand
+2025-03-13 11:28:20.536 +01:00 [INF] Property Number : 3
+2025-03-13 11:28:20.537 +01:00 [INF] Property RowId : "0207abef-8ce9-4791-79cf-08dd6214f254"
+2025-03-13 11:28:20.542 +01:00 [INF] Handled CreateSeatCommand with Ardalis.Result.Result`1[System.Guid] in 3 ms
+2025-03-13 11:28:20.543 +01:00 [INF] Executed endpoint 'HTTP: POST /Seats'
+2025-03-13 11:28:20.544 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Seats - 200 null application/json; charset=utf-8 12.7426ms
+2025-03-13 11:28:23.740 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Seats - application/json 68
+2025-03-13 11:28:23.744 +01:00 [INF] Executing endpoint 'HTTP: POST /Seats'
+2025-03-13 11:28:23.745 +01:00 [INF] Handling CreateSeatCommand
+2025-03-13 11:28:23.745 +01:00 [INF] Property Number : 4
+2025-03-13 11:28:23.746 +01:00 [INF] Property RowId : "0207abef-8ce9-4791-79cf-08dd6214f254"
+2025-03-13 11:28:23.751 +01:00 [INF] Handled CreateSeatCommand with Ardalis.Result.Result`1[System.Guid] in 3 ms
+2025-03-13 11:28:23.752 +01:00 [INF] Executed endpoint 'HTTP: POST /Seats'
+2025-03-13 11:28:23.753 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Seats - 200 null application/json; charset=utf-8 13.4372ms
+2025-03-13 11:37:01.070 +01:00 [INF] Registered 5 endpoints in 197 milliseconds.
+2025-03-13 11:37:01.133 +01:00 [INF] No validators found in the system!
+2025-03-13 11:37:01.238 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 11:37:01.239 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 11:37:01.244 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 11:37:01.319 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 11:37:01.320 +01:00 [INF] Hosting environment: Development
+2025-03-13 11:37:01.320 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 11:37:03.213 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-03-13 11:37:03.341 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 404 0 null 128.3818ms
+2025-03-13 11:37:03.358 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/, Response status code: 404
+2025-03-13 11:37:05.954 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Swagger - null null
+2025-03-13 11:37:05.964 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Swagger - 302 0 null 9.8183ms
+2025-03-13 11:37:05.973 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.html - null null
+2025-03-13 11:37:05.997 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.html - 200 null text/html; charset=utf-8 23.2008ms
+2025-03-13 11:37:06.057 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-13 11:37:06.062 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 5.679ms
+2025-03-13 11:37:06.076 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2025-03-13 11:37:06.098 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 21.8104ms
+2025-03-13 11:37:06.159 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-03-13 11:37:06.184 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json; charset=utf-8 24.5215ms
+2025-03-13 12:25:08.843 +01:00 [INF] Registered 6 endpoints in 177 milliseconds.
+2025-03-13 12:25:08.901 +01:00 [INF] No validators found in the system!
+2025-03-13 12:25:08.996 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 12:25:08.998 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 12:25:09.002 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 12:25:09.075 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 12:25:09.076 +01:00 [INF] Hosting environment: Development
+2025-03-13 12:25:09.077 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 12:25:16.066 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5279/ - null null
+2025-03-13 12:25:16.182 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5279/ - 307 0 null 116.5783ms
+2025-03-13 12:25:16.192 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-03-13 12:25:16.198 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 404 0 null 5.4889ms
+2025-03-13 12:25:16.202 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/, Response status code: 404
+2025-03-13 12:25:19.417 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-03-13 12:25:19.422 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 404 0 null 5.1598ms
+2025-03-13 12:25:19.426 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/, Response status code: 404
+2025-03-13 12:25:22.167 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Swagger - null null
+2025-03-13 12:25:22.176 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Swagger - 302 0 null 8.9878ms
+2025-03-13 12:25:22.185 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.html - null null
+2025-03-13 12:25:22.211 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.html - 200 null text/html; charset=utf-8 25.727ms
+2025-03-13 12:25:22.268 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-13 12:25:22.275 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 6.8927ms
+2025-03-13 12:25:22.289 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2025-03-13 12:25:22.316 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 26.703ms
+2025-03-13 12:25:22.379 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-03-13 12:25:22.405 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json; charset=utf-8 26.3161ms
+2025-03-13 12:25:36.006 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 12:25:36.011 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 12:25:36.042 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 12:25:36.043 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 12:25:36.977 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 932 ms
+2025-03-13 12:25:36.986 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 12:25:36.994 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 988.2148ms
+2025-03-13 12:26:36.430 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Rows - application/json 69
+2025-03-13 12:26:36.432 +01:00 [INF] Executing endpoint 'HTTP: POST /Rows'
+2025-03-13 12:26:36.450 +01:00 [INF] Handling CreateRowComand
+2025-03-13 12:26:36.451 +01:00 [INF] Property Number : 1
+2025-03-13 12:26:36.452 +01:00 [INF] Property HallId : "0e5e2a18-86bc-49ef-35ed-08dd6214fdaa"
+2025-03-13 12:26:36.569 +01:00 [INF] Handled CreateRowComand with Ardalis.Result.Result`1[System.Guid] in 115 ms
+2025-03-13 12:26:36.573 +01:00 [INF] Executed endpoint 'HTTP: POST /Rows'
+2025-03-13 12:26:36.576 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Rows - 200 null application/json; charset=utf-8 145.8725ms
+2025-03-13 12:27:01.959 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Seats - application/json 68
+2025-03-13 12:27:01.962 +01:00 [INF] Executing endpoint 'HTTP: POST /Seats'
+2025-03-13 12:27:01.966 +01:00 [INF] Handling CreateSeatCommand
+2025-03-13 12:27:01.967 +01:00 [INF] Property Number : 1
+2025-03-13 12:27:01.968 +01:00 [INF] Property RowId : "0e5e2a18-86bc-49ef-35ed-08dd6214fdaa"
+2025-03-13 12:27:01.985 +01:00 [INF] Handled CreateSeatCommand with Ardalis.Result.Result`1[System.Guid] in 16 ms
+2025-03-13 12:27:01.988 +01:00 [INF] Executed endpoint 'HTTP: POST /Seats'
+2025-03-13 12:27:01.989 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Seats - 200 null application/json; charset=utf-8 29.5193ms
+2025-03-13 12:27:05.620 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Seats - application/json 68
+2025-03-13 12:27:05.622 +01:00 [INF] Executing endpoint 'HTTP: POST /Seats'
+2025-03-13 12:27:05.624 +01:00 [INF] Handling CreateSeatCommand
+2025-03-13 12:27:05.625 +01:00 [INF] Property Number : 2
+2025-03-13 12:27:05.626 +01:00 [INF] Property RowId : "0e5e2a18-86bc-49ef-35ed-08dd6214fdaa"
+2025-03-13 12:27:05.643 +01:00 [INF] Handled CreateSeatCommand with Ardalis.Result.Result`1[System.Guid] in 15 ms
+2025-03-13 12:27:05.644 +01:00 [INF] Executed endpoint 'HTTP: POST /Seats'
+2025-03-13 12:27:05.646 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Seats - 200 null application/json; charset=utf-8 25.8913ms
+2025-03-13 12:27:08.513 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Seats - application/json 68
+2025-03-13 12:27:08.517 +01:00 [INF] Executing endpoint 'HTTP: POST /Seats'
+2025-03-13 12:27:08.519 +01:00 [INF] Handling CreateSeatCommand
+2025-03-13 12:27:08.520 +01:00 [INF] Property Number : 3
+2025-03-13 12:27:08.521 +01:00 [INF] Property RowId : "0e5e2a18-86bc-49ef-35ed-08dd6214fdaa"
+2025-03-13 12:27:08.527 +01:00 [INF] Handled CreateSeatCommand with Ardalis.Result.Result`1[System.Guid] in 5 ms
+2025-03-13 12:27:08.529 +01:00 [INF] Executed endpoint 'HTTP: POST /Seats'
+2025-03-13 12:27:08.530 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Seats - 200 null application/json; charset=utf-8 16.3931ms
+2025-03-13 12:27:21.428 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 12:27:21.431 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 12:27:21.432 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 12:27:21.433 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 12:27:21.439 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 5 ms
+2025-03-13 12:27:21.441 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 12:27:21.443 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 14.3691ms
+2025-03-13 14:13:14.389 +01:00 [INF] Registered 6 endpoints in 187 milliseconds.
+2025-03-13 14:13:14.482 +01:00 [INF] No validators found in the system!
+2025-03-13 14:13:14.598 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 14:13:14.599 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 14:13:14.603 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 14:13:14.689 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 14:13:14.690 +01:00 [INF] Hosting environment: Development
+2025-03-13 14:13:14.690 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 14:13:17.062 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-03-13 14:13:17.199 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 404 0 null 139.4292ms
+2025-03-13 14:13:17.211 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/, Response status code: 404
+2025-03-13 14:13:19.824 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Swagger - null null
+2025-03-13 14:13:19.833 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Swagger - 302 0 null 9.5288ms
+2025-03-13 14:13:19.844 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.html - null null
+2025-03-13 14:13:19.871 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.html - 200 null text/html; charset=utf-8 26.6751ms
+2025-03-13 14:13:19.932 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-13 14:13:19.938 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 5.8878ms
+2025-03-13 14:13:19.962 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2025-03-13 14:13:19.997 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.1416ms
+2025-03-13 14:13:20.066 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-03-13 14:13:20.093 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json; charset=utf-8 27.2113ms
+2025-03-13 14:14:02.316 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 14:14:02.323 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:14:02.370 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 14:14:02.371 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 14:14:03.057 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:14:03.060 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__21_0(DbContext _, Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at RegistrationService.Infrastructure.Repositories.RowRepository.GetByHallId(Guid projectionId) in C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\RegistrationService.Infrastructure\Repositories\RowRepository.cs:line 8
+   at CinemaService.UseCases.Seats.GetByHallId.GetSeatByHallIdHandler.Handle(GetSeatByHallIdCommand request, CancellationToken cancellationToken) in C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.UseCases\Seats\GetByHallId\GetSeatByHallIdHandler.cs:line 10
+   at Ardalis.SharedKernel.LoggingBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at CinemaService.API.Seat.GetByHallId.GetByHallId.HandleAsync(GetByHallIdRequest req, CancellationToken ct) in C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API\Seat\GetByHallId\GetByHallId.cs:line 15
+   at FastEndpoints.Endpoint`2.ExecAsync(CancellationToken ct)
+   at FastEndpoints.Endpoint`2.ExecAsync(CancellationToken ct)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at NSwag.AspNetCore.Middlewares.SwaggerUiIndexMiddleware.Invoke(HttpContext context)
+   at NSwag.AspNetCore.Middlewares.RedirectToIndexMiddleware.Invoke(HttpContext context)
+   at NSwag.AspNetCore.Middlewares.OpenApiDocumentMiddleware.Invoke(HttpContext context)
+   at Ardalis.ListStartupServices.ShowAllServicesMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-03-13 14:14:03.098 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 500 null text/html; charset=utf-8 782.1215ms
+2025-03-13 14:14:03.147 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2025-03-13 14:14:03.155 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 7.3014ms
+2025-03-13 14:14:03.173 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-13 14:14:03.176 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 3.0606ms
+2025-03-13 14:14:03.256 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/favicon.ico - null null
+2025-03-13 14:14:03.259 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/favicon.ico - 404 0 null 2.9181ms
+2025-03-13 14:14:03.262 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/favicon.ico, Response status code: 404
+2025-03-13 14:14:37.417 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 14:14:37.420 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:14:37.421 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 14:14:37.422 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 14:14:37.479 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:14:37.481 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__21_0(DbContext _, Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at RegistrationService.Infrastructure.Repositories.RowRepository.GetByHallId(Guid projectionId) in C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\RegistrationService.Infrastructure\Repositories\RowRepository.cs:line 8
+   at CinemaService.UseCases.Seats.GetByHallId.GetSeatByHallIdHandler.Handle(GetSeatByHallIdCommand request, CancellationToken cancellationToken) in C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.UseCases\Seats\GetByHallId\GetSeatByHallIdHandler.cs:line 10
+   at Ardalis.SharedKernel.LoggingBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at CinemaService.API.Seat.GetByHallId.GetByHallId.HandleAsync(GetByHallIdRequest req, CancellationToken ct) in C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API\Seat\GetByHallId\GetByHallId.cs:line 15
+   at FastEndpoints.Endpoint`2.ExecAsync(CancellationToken ct)
+   at FastEndpoints.Endpoint`2.ExecAsync(CancellationToken ct)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at NSwag.AspNetCore.Middlewares.SwaggerUiIndexMiddleware.Invoke(HttpContext context)
+   at NSwag.AspNetCore.Middlewares.RedirectToIndexMiddleware.Invoke(HttpContext context)
+   at NSwag.AspNetCore.Middlewares.OpenApiDocumentMiddleware.Invoke(HttpContext context)
+   at Ardalis.ListStartupServices.ShowAllServicesMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-03-13 14:14:37.490 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 500 null text/plain; charset=utf-8 73.1279ms
+2025-03-13 14:16:16.576 +01:00 [INF] Registered 6 endpoints in 264 milliseconds.
+2025-03-13 14:16:16.657 +01:00 [INF] No validators found in the system!
+2025-03-13 14:16:16.784 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 14:16:16.785 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 14:16:16.790 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 14:16:16.884 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 14:16:16.885 +01:00 [INF] Hosting environment: Development
+2025-03-13 14:16:16.886 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 14:16:21.181 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 14:16:21.211 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:16:21.249 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 14:16:21.250 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 14:16:22.174 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 921 ms
+2025-03-13 14:16:22.183 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:16:22.192 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 1011.6277ms
+2025-03-13 14:16:25.593 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 14:16:25.685 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:16:25.687 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 14:16:25.688 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 14:16:25.761 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 71 ms
+2025-03-13 14:16:25.765 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:16:25.769 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 175.8779ms
+2025-03-13 14:17:58.152 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 14:17:58.155 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:17:58.157 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 14:17:58.158 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 14:17:58.176 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 17 ms
+2025-03-13 14:17:58.179 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:17:58.181 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 28.446ms
+2025-03-13 14:18:08.617 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 14:18:08.620 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:18:08.621 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 14:18:08.621 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 14:18:08.628 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 5 ms
+2025-03-13 14:18:08.630 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:18:08.632 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 14.4186ms
+2025-03-13 14:18:25.002 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 14:18:25.005 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:18:25.006 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 14:18:25.007 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 14:18:25.011 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 3 ms
+2025-03-13 14:18:25.013 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:18:25.014 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 11.6331ms
+2025-03-13 14:22:51.588 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 14:22:51.590 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:22:51.591 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 14:22:51.592 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 14:22:51.605 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 11 ms
+2025-03-13 14:22:51.607 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:22:51.608 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 20.6673ms
+2025-03-13 14:25:34.540 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 14:25:34.542 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:25:34.543 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 14:25:34.544 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 14:25:34.549 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 4 ms
+2025-03-13 14:25:34.550 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:25:34.551 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 11.3792ms
+2025-03-13 14:25:43.781 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 14:25:43.783 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:25:43.784 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 14:25:43.785 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 14:25:43.790 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 4 ms
+2025-03-13 14:25:43.792 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:25:43.793 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 12.1178ms
+2025-03-13 14:26:23.113 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 14:26:23.115 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:26:23.116 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 14:26:23.117 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 14:26:23.123 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 5 ms
+2025-03-13 14:26:23.125 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:26:23.126 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 12.495ms
+2025-03-13 14:26:32.937 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 14:26:32.939 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:26:32.941 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 14:26:32.941 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 14:26:32.947 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 4 ms
+2025-03-13 14:26:32.949 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:26:32.950 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 13.8495ms
+2025-03-13 14:35:18.319 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 14:35:18.321 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:35:18.322 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 14:35:18.323 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 14:35:18.337 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 13 ms
+2025-03-13 14:35:18.338 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 14:35:18.339 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 20.5599ms
+2025-03-13 14:44:49.389 +01:00 [INF] Registered 6 endpoints in 191 milliseconds.
+2025-03-13 14:44:49.456 +01:00 [INF] No validators found in the system!
+2025-03-13 14:44:49.588 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 14:44:49.589 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 14:44:49.596 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 14:44:50.069 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 14:44:50.070 +01:00 [INF] Hosting environment: Development
+2025-03-13 14:44:50.070 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 14:44:53.512 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-03-13 14:44:53.630 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 404 0 null 119.3823ms
+2025-03-13 14:44:53.646 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/, Response status code: 404
+2025-03-13 14:44:59.302 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Swagger - null null
+2025-03-13 14:44:59.312 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Swagger - 302 0 null 9.3872ms
+2025-03-13 14:44:59.320 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.html - null null
+2025-03-13 14:44:59.348 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.html - 200 null text/html; charset=utf-8 27.5478ms
+2025-03-13 14:44:59.416 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-13 14:44:59.423 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 7.7517ms
+2025-03-13 14:44:59.435 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2025-03-13 14:44:59.462 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 26.4764ms
+2025-03-13 14:44:59.543 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-03-13 14:44:59.575 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json; charset=utf-8 32.3302ms
+2025-03-13 14:45:43.524 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Halls - null null
+2025-03-13 14:45:43.531 +01:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2025-03-13 14:45:43.532 +01:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2025-03-13 14:45:43.533 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Halls - 405 0 null 9.8238ms
+2025-03-13 14:45:49.005 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-03-13 14:45:49.012 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 404 0 null 6.7732ms
+2025-03-13 14:45:49.015 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/, Response status code: 404
+2025-03-13 14:45:53.044 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Halls - null null
+2025-03-13 14:45:53.048 +01:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2025-03-13 14:45:53.049 +01:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2025-03-13 14:45:53.051 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Halls - 405 0 null 6.7145ms
+2025-03-13 15:00:02.549 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 15:00:02.552 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:00:02.583 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 15:00:02.584 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 15:00:03.490 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 904 ms
+2025-03-13 15:00:03.500 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:00:03.507 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 958.36ms
+2025-03-13 15:00:03.530 +01:00 [INF] Request starting HTTP/1.1 POST https://localhost:7254/Halls - application/json; charset=utf-8 null
+2025-03-13 15:00:03.533 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:00:03.556 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:00:03.557 +01:00 [INF] Request finished HTTP/1.1 POST https://localhost:7254/Halls - 400 null application/problem+json; charset=utf-8 26.7895ms
+2025-03-13 15:15:02.210 +01:00 [INF] Registered 6 endpoints in 201 milliseconds.
+2025-03-13 15:15:02.283 +01:00 [INF] No validators found in the system!
+2025-03-13 15:15:02.386 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 15:15:02.388 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 15:15:02.392 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 15:15:02.471 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 15:15:02.472 +01:00 [INF] Hosting environment: Development
+2025-03-13 15:15:02.472 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 15:15:12.136 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 15:15:12.161 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:15:12.191 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 15:15:12.192 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 15:15:12.913 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 719 ms
+2025-03-13 15:15:12.923 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:15:12.931 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 796.1115ms
+2025-03-13 15:15:12.957 +01:00 [INF] Request starting HTTP/1.1 POST https://localhost:7254/Halls - application/json; charset=utf-8 null
+2025-03-13 15:15:12.960 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:15:12.977 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:15:12.978 +01:00 [INF] Request finished HTTP/1.1 POST https://localhost:7254/Halls - 400 null application/problem+json; charset=utf-8 21.4365ms
+2025-03-13 15:16:29.066 +01:00 [INF] Registered 6 endpoints in 207 milliseconds.
+2025-03-13 15:16:29.125 +01:00 [INF] No validators found in the system!
+2025-03-13 15:16:29.242 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 15:16:29.243 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 15:16:29.248 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 15:16:29.328 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 15:16:29.330 +01:00 [INF] Hosting environment: Development
+2025-03-13 15:16:29.330 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 15:16:37.484 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 15:16:37.509 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:16:37.538 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 15:16:37.539 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 15:16:38.281 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 740 ms
+2025-03-13 15:16:38.292 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:16:38.300 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 816.8698ms
+2025-03-13 15:16:38.329 +01:00 [INF] Request starting HTTP/1.1 POST https://localhost:7254/Halls - application/json; charset=utf-8 null
+2025-03-13 15:16:38.332 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:16:38.352 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:16:38.353 +01:00 [INF] Request finished HTTP/1.1 POST https://localhost:7254/Halls - 400 null application/problem+json; charset=utf-8 23.9875ms
+2025-03-13 15:16:57.902 +01:00 [INF] Registered 6 endpoints in 621 milliseconds.
+2025-03-13 15:16:58.083 +01:00 [INF] No validators found in the system!
+2025-03-13 15:16:58.491 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 15:16:58.492 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 15:16:58.500 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 15:16:59.484 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 15:16:59.485 +01:00 [INF] Hosting environment: Development
+2025-03-13 15:16:59.486 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 15:17:07.695 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 15:17:07.733 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:17:07.794 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 15:17:07.795 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 15:17:09.010 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 1213 ms
+2025-03-13 15:17:09.025 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:17:09.034 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 1343.0462ms
+2025-03-13 15:17:09.056 +01:00 [INF] Request starting HTTP/1.1 POST https://localhost:7254/Halls - application/json; charset=utf-8 null
+2025-03-13 15:17:09.058 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:17:09.090 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:17:09.091 +01:00 [INF] Request finished HTTP/1.1 POST https://localhost:7254/Halls - 400 null application/problem+json; charset=utf-8 35.1795ms
+2025-03-13 15:18:17.759 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 15:18:17.762 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:18:17.763 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 15:18:17.764 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 15:18:17.814 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 48 ms
+2025-03-13 15:18:17.816 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:18:17.817 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 58.7556ms
+2025-03-13 15:18:17.850 +01:00 [INF] Request starting HTTP/1.1 POST https://localhost:7254/Halls - application/json; charset=utf-8 null
+2025-03-13 15:18:17.853 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:18:17.857 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:18:17.858 +01:00 [INF] Request finished HTTP/1.1 POST https://localhost:7254/Halls - 400 null application/problem+json; charset=utf-8 8.0764ms
+2025-03-13 15:18:26.137 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 15:18:26.139 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:18:26.142 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 15:18:26.144 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 15:18:26.163 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 17 ms
+2025-03-13 15:18:26.165 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:18:26.166 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 29.3764ms
+2025-03-13 15:18:26.266 +01:00 [INF] Request starting HTTP/1.1 POST https://localhost:7254/Halls - application/json; charset=utf-8 null
+2025-03-13 15:18:26.269 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:18:26.272 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:18:26.274 +01:00 [INF] Request finished HTTP/1.1 POST https://localhost:7254/Halls - 400 null application/problem+json; charset=utf-8 7.5251ms
+2025-03-13 15:19:50.777 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 15:19:50.779 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:19:50.780 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 15:19:50.781 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 15:19:50.786 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 4 ms
+2025-03-13 15:19:50.787 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:19:50.788 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 11.8479ms
+2025-03-13 15:19:50.888 +01:00 [INF] Request starting HTTP/1.1 POST https://localhost:7254/Halls - application/json; charset=utf-8 null
+2025-03-13 15:19:50.890 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:19:50.892 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:19:50.893 +01:00 [INF] Request finished HTTP/1.1 POST https://localhost:7254/Halls - 400 null application/problem+json; charset=utf-8 5.4227ms
+2025-03-13 15:21:30.412 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 15:21:30.415 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:21:30.416 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 15:21:30.416 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 15:21:30.421 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 4 ms
+2025-03-13 15:21:30.422 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:21:30.423 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 11.1675ms
+2025-03-13 15:21:30.517 +01:00 [INF] Request starting HTTP/1.1 POST https://localhost:7254/Halls - application/json; charset=utf-8 null
+2025-03-13 15:21:30.520 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:21:30.523 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:21:30.523 +01:00 [INF] Request finished HTTP/1.1 POST https://localhost:7254/Halls - 400 null application/problem+json; charset=utf-8 6.6871ms
+2025-03-13 15:22:17.586 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Halls - application/json 22
+2025-03-13 15:22:17.588 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:30:05.003 +01:00 [INF] Registered 6 endpoints in 221 milliseconds.
+2025-03-13 15:30:05.063 +01:00 [INF] No validators found in the system!
+2025-03-13 15:30:05.158 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 15:30:05.160 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 15:30:05.164 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 15:30:05.241 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 15:30:05.242 +01:00 [INF] Hosting environment: Development
+2025-03-13 15:30:05.243 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 15:30:12.837 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 15:30:12.866 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:30:12.892 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 15:30:12.893 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 15:30:13.635 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 740 ms
+2025-03-13 15:30:13.646 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:30:13.653 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 816.8238ms
+2025-03-13 15:30:13.677 +01:00 [INF] Request starting HTTP/1.1 POST https://localhost:7254/Halls - application/json; charset=utf-8 null
+2025-03-13 15:30:13.680 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:30:13.697 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:30:13.698 +01:00 [INF] Request finished HTTP/1.1 POST https://localhost:7254/Halls - 400 null application/problem+json; charset=utf-8 20.3721ms
+2025-03-13 15:30:26.824 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 15:30:26.826 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:30:26.828 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 15:30:26.829 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 15:30:26.903 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 73 ms
+2025-03-13 15:30:26.904 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:30:26.906 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 81.6224ms
+2025-03-13 15:30:27.005 +01:00 [INF] Request starting HTTP/1.1 POST https://localhost:7254/Halls - application/json; charset=utf-8 null
+2025-03-13 15:30:27.010 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:30:27.012 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:30:27.013 +01:00 [INF] Request finished HTTP/1.1 POST https://localhost:7254/Halls - 400 null application/problem+json; charset=utf-8 7.9952ms
+2025-03-13 15:30:57.282 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 15:30:57.285 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:30:57.287 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 15:30:57.288 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 15:30:57.301 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 12 ms
+2025-03-13 15:30:57.302 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:30:57.303 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 20.7076ms
+2025-03-13 15:30:57.388 +01:00 [INF] Request starting HTTP/1.1 POST https://localhost:7254/Halls - application/json; charset=utf-8 null
+2025-03-13 15:30:57.390 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:30:57.391 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:30:57.393 +01:00 [INF] Request finished HTTP/1.1 POST https://localhost:7254/Halls - 400 null application/problem+json; charset=utf-8 5.7334ms
+2025-03-13 15:31:38.010 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.html - null null
+2025-03-13 15:31:38.109 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.html - 200 null text/html; charset=utf-8 98.9443ms
+2025-03-13 15:31:38.219 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2025-03-13 15:31:38.219 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-13 15:31:38.225 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 6.4535ms
+2025-03-13 15:31:38.245 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 26.3838ms
+2025-03-13 15:31:38.310 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-03-13 15:31:38.365 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json; charset=utf-8 54.3587ms
+2025-03-13 15:31:51.127 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/swagger-ui.css.map - null null
+2025-03-13 15:31:51.131 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/swagger-ui.css.map - 404 0 null 3.4949ms
+2025-03-13 15:31:51.136 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/swagger/swagger-ui.css.map, Response status code: 404
+2025-03-13 15:31:58.983 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Halls - application/json 29
+2025-03-13 15:31:58.985 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:31:58.992 +01:00 [INF] Handling CreateHallComand
+2025-03-13 15:31:58.993 +01:00 [INF] Property name : New hall name
+2025-03-13 15:31:59.089 +01:00 [INF] Handled CreateHallComand with Ardalis.Result.Result`1[System.Guid] in 95 ms
+2025-03-13 15:31:59.093 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:31:59.094 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Halls - 200 null application/json; charset=utf-8 110.4938ms
+2025-03-13 15:32:40.171 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 15:32:40.175 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:32:40.176 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 15:32:40.177 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 15:32:40.183 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 5 ms
+2025-03-13 15:32:40.184 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:32:40.185 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 13.7378ms
+2025-03-13 15:32:40.216 +01:00 [INF] Request starting HTTP/1.1 POST https://localhost:7254/Halls - application/json; charset=utf-8 null
+2025-03-13 15:32:40.218 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:32:40.219 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:32:40.220 +01:00 [INF] Request finished HTTP/1.1 POST https://localhost:7254/Halls - 400 null application/problem+json; charset=utf-8 4.4736ms
+2025-03-13 15:32:44.549 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 15:32:44.551 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:32:44.552 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 15:32:44.552 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 15:32:44.557 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 3 ms
+2025-03-13 15:32:44.559 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:32:44.560 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 11.1968ms
+2025-03-13 15:32:44.649 +01:00 [INF] Request starting HTTP/1.1 POST https://localhost:7254/Halls - application/json; charset=utf-8 null
+2025-03-13 15:32:44.652 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:32:44.653 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:32:44.654 +01:00 [INF] Request finished HTTP/1.1 POST https://localhost:7254/Halls - 400 null application/problem+json; charset=utf-8 4.3136ms
+2025-03-13 15:34:13.490 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 15:34:13.493 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:34:13.493 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 15:34:13.494 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 15:34:13.498 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 3 ms
+2025-03-13 15:34:13.500 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:34:13.501 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 10.9842ms
+2025-03-13 15:34:13.535 +01:00 [INF] Request starting HTTP/1.1 POST https://localhost:7254/Halls - application/json; charset=utf-8 null
+2025-03-13 15:34:13.538 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:34:13.539 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:34:13.540 +01:00 [INF] Request finished HTTP/1.1 POST https://localhost:7254/Halls - 400 null application/problem+json; charset=utf-8 5.0306ms
+2025-03-13 15:36:32.392 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 15:36:32.394 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:36:32.395 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 15:36:32.395 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 15:36:32.402 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 5 ms
+2025-03-13 15:36:32.403 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:36:32.404 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 12.561ms
+2025-03-13 15:36:32.497 +01:00 [INF] Request starting HTTP/1.1 POST https://localhost:7254/Halls - application/json; charset=utf-8 null
+2025-03-13 15:36:32.499 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:36:32.500 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:36:32.501 +01:00 [INF] Request finished HTTP/1.1 POST https://localhost:7254/Halls - 400 null application/problem+json; charset=utf-8 4.5433ms
+2025-03-13 15:37:50.713 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 15:37:50.716 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:37:50.717 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 15:37:50.718 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 15:37:50.724 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 5 ms
+2025-03-13 15:37:50.726 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:37:50.727 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 13.685ms
+2025-03-13 15:37:50.830 +01:00 [INF] Request starting HTTP/1.1 POST https://localhost:7254/Halls - application/json; charset=utf-8 null
+2025-03-13 15:37:50.834 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:37:50.835 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:37:50.837 +01:00 [INF] Request finished HTTP/1.1 POST https://localhost:7254/Halls - 400 null application/problem+json; charset=utf-8 6.7985ms
+2025-03-13 15:39:39.303 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 15:39:39.309 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:39:39.313 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 15:39:39.315 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 15:39:39.322 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 6 ms
+2025-03-13 15:39:39.324 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:39:39.325 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 21.5889ms
+2025-03-13 15:39:39.415 +01:00 [INF] Request starting HTTP/1.1 POST https://localhost:7254/Halls - application/json; charset=utf-8 null
+2025-03-13 15:39:39.418 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:39:39.420 +01:00 [INF] Handling CreateHallComand
+2025-03-13 15:39:39.421 +01:00 [INF] Property name : Sal 3
+2025-03-13 15:39:39.428 +01:00 [INF] Handled CreateHallComand with Ardalis.Result.Result`1[System.Guid] in 6 ms
+2025-03-13 15:39:39.430 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:39:39.431 +01:00 [INF] Request finished HTTP/1.1 POST https://localhost:7254/Halls - 200 null application/json; charset=utf-8 15.3658ms
+2025-03-13 15:40:22.969 +01:00 [INF] Request starting HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - null null
+2025-03-13 15:40:22.972 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:40:22.973 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 15:40:22.974 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 15:40:22.978 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 3 ms
+2025-03-13 15:40:22.980 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 15:40:22.981 +01:00 [INF] Request finished HTTP/1.1 GET https://localhost:7254/Seats/GetByHallId/6EEBA3F4-6746-4E69-5286-08DD620C785C - 200 null application/json; charset=utf-8 12.0313ms
+2025-03-13 15:40:23.067 +01:00 [INF] Request starting HTTP/1.1 POST https://localhost:7254/Halls - application/json; charset=utf-8 null
+2025-03-13 15:40:23.070 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:40:23.072 +01:00 [INF] Handling CreateHallComand
+2025-03-13 15:40:23.073 +01:00 [INF] Property name : null
+2025-03-13 15:40:23.088 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:40:23.090 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Name', table 'Cinema.CinemaService.dbo.Halls'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:53839482-f42b-4791-a772-46bf398672f0
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Ardalis.Specification.EntityFrameworkCore.RepositoryBase`1.SaveChangesAsync(CancellationToken cancellationToken)
+   at Ardalis.Specification.EntityFrameworkCore.RepositoryBase`1.AddAsync(T entity, CancellationToken cancellationToken)
+   at CinemaService.UseCases.Halls.Create.CreateHallHandler.Handle(CreateHallComand request, CancellationToken cancellationToken) in C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.UseCases\Halls\Create\CreateHallHandler.cs:line 16
+   at Ardalis.SharedKernel.LoggingBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at CinemaService.API.Halls.Create.Create.HandleAsync(CreateHallRequest req, CancellationToken ct) in C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API\Halls\Create\Create.cs:line 19
+   at FastEndpoints.Endpoint`2.ExecAsync(CancellationToken ct)
+   at FastEndpoints.Endpoint`2.ExecAsync(CancellationToken ct)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at NSwag.AspNetCore.Middlewares.SwaggerUiIndexMiddleware.Invoke(HttpContext context)
+   at NSwag.AspNetCore.Middlewares.RedirectToIndexMiddleware.Invoke(HttpContext context)
+   at NSwag.AspNetCore.Middlewares.OpenApiDocumentMiddleware.Invoke(HttpContext context)
+   at Ardalis.ListStartupServices.ShowAllServicesMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-03-13 15:40:23.112 +01:00 [INF] Request finished HTTP/1.1 POST https://localhost:7254/Halls - 500 null text/plain; charset=utf-8 45.4118ms
+2025-03-13 15:40:44.877 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Halls - application/json 6
+2025-03-13 15:40:44.879 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:40:44.880 +01:00 [INF] Handling CreateHallComand
+2025-03-13 15:40:44.880 +01:00 [INF] Property name : null
+2025-03-13 15:40:44.887 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:40:44.888 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Name', table 'Cinema.CinemaService.dbo.Halls'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:53839482-f42b-4791-a772-46bf398672f0
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Ardalis.Specification.EntityFrameworkCore.RepositoryBase`1.SaveChangesAsync(CancellationToken cancellationToken)
+   at Ardalis.Specification.EntityFrameworkCore.RepositoryBase`1.AddAsync(T entity, CancellationToken cancellationToken)
+   at CinemaService.UseCases.Halls.Create.CreateHallHandler.Handle(CreateHallComand request, CancellationToken cancellationToken) in C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.UseCases\Halls\Create\CreateHallHandler.cs:line 16
+   at Ardalis.SharedKernel.LoggingBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at CinemaService.API.Halls.Create.Create.HandleAsync(CreateHallRequest req, CancellationToken ct) in C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API\Halls\Create\Create.cs:line 19
+   at FastEndpoints.Endpoint`2.ExecAsync(CancellationToken ct)
+   at FastEndpoints.Endpoint`2.ExecAsync(CancellationToken ct)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at NSwag.AspNetCore.Middlewares.SwaggerUiIndexMiddleware.Invoke(HttpContext context)
+   at NSwag.AspNetCore.Middlewares.RedirectToIndexMiddleware.Invoke(HttpContext context)
+   at NSwag.AspNetCore.Middlewares.OpenApiDocumentMiddleware.Invoke(HttpContext context)
+   at Ardalis.ListStartupServices.ShowAllServicesMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-03-13 15:40:44.897 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Halls - 500 null text/plain; charset=utf-8 20.2118ms
+2025-03-13 15:41:05.600 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.html - null null
+2025-03-13 15:41:05.610 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.html - 200 null text/html; charset=utf-8 10.3874ms
+2025-03-13 15:41:05.675 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-13 15:41:05.678 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 3ms
+2025-03-13 15:41:05.695 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2025-03-13 15:41:05.695 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/swagger-ui.css.map - null null
+2025-03-13 15:41:05.700 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/swagger-ui.css.map - 404 0 null 4.7856ms
+2025-03-13 15:41:05.705 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/swagger/swagger-ui.css.map, Response status code: 404
+2025-03-13 15:41:05.707 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 11.9863ms
+2025-03-13 15:41:06.076 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-03-13 15:41:06.086 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json; charset=utf-8 9.9648ms
+2025-03-13 15:41:48.095 +01:00 [INF] Registered 6 endpoints in 183 milliseconds.
+2025-03-13 15:41:48.159 +01:00 [INF] No validators found in the system!
+2025-03-13 15:41:48.258 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 15:41:48.259 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 15:41:48.264 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 15:41:48.333 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 15:41:48.335 +01:00 [INF] Hosting environment: Development
+2025-03-13 15:41:48.336 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 15:42:04.331 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.html - null null
+2025-03-13 15:42:04.482 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.html - 200 null text/html; charset=utf-8 152.2612ms
+2025-03-13 15:42:04.554 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/swagger-ui.css.map - null null
+2025-03-13 15:42:04.560 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/swagger-ui.css.map - 404 0 null 5.5483ms
+2025-03-13 15:42:04.565 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/swagger/swagger-ui.css.map, Response status code: 404
+2025-03-13 15:42:04.841 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2025-03-13 15:42:04.841 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-13 15:42:04.848 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 6.9453ms
+2025-03-13 15:42:04.871 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.331ms
+2025-03-13 15:42:04.936 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-03-13 15:42:04.987 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json; charset=utf-8 50.2816ms
+2025-03-13 15:42:19.344 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Halls - application/json 2
+2025-03-13 15:42:19.348 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:42:19.401 +01:00 [INF] Handling CreateHallComand
+2025-03-13 15:42:19.404 +01:00 [INF] Property name : null
+2025-03-13 15:42:20.149 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:42:20.153 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Name', table 'Cinema.CinemaService.dbo.Halls'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:9827a6c4-fc59-444b-9544-db0d9ea027c7
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Ardalis.Specification.EntityFrameworkCore.RepositoryBase`1.SaveChangesAsync(CancellationToken cancellationToken)
+   at Ardalis.Specification.EntityFrameworkCore.RepositoryBase`1.AddAsync(T entity, CancellationToken cancellationToken)
+   at CinemaService.UseCases.Halls.Create.CreateHallHandler.Handle(CreateHallComand request, CancellationToken cancellationToken) in C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.UseCases\Halls\Create\CreateHallHandler.cs:line 16
+   at Ardalis.SharedKernel.LoggingBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at CinemaService.API.Halls.Create.Create.HandleAsync(CreateHallRequest req, CancellationToken ct) in C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API\Halls\Create\Create.cs:line 19
+   at FastEndpoints.Endpoint`2.ExecAsync(CancellationToken ct)
+   at FastEndpoints.Endpoint`2.ExecAsync(CancellationToken ct)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at NSwag.AspNetCore.Middlewares.SwaggerUiIndexMiddleware.Invoke(HttpContext context)
+   at NSwag.AspNetCore.Middlewares.RedirectToIndexMiddleware.Invoke(HttpContext context)
+   at NSwag.AspNetCore.Middlewares.OpenApiDocumentMiddleware.Invoke(HttpContext context)
+   at Ardalis.ListStartupServices.ShowAllServicesMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-03-13 15:42:20.180 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Halls - 500 null text/plain; charset=utf-8 836.2926ms
+2025-03-13 15:44:36.632 +01:00 [INF] Registered 6 endpoints in 283 milliseconds.
+2025-03-13 15:44:36.727 +01:00 [INF] No validators found in the system!
+2025-03-13 15:44:36.861 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 15:44:36.863 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 15:44:36.869 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 15:44:37.021 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 15:44:37.022 +01:00 [INF] Hosting environment: Development
+2025-03-13 15:44:37.023 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 15:44:43.067 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.html - null null
+2025-03-13 15:44:43.238 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.html - 200 null text/html; charset=utf-8 171.7955ms
+2025-03-13 15:44:43.309 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2025-03-13 15:44:43.317 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-13 15:44:43.329 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 11.2652ms
+2025-03-13 15:44:43.369 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 59.9639ms
+2025-03-13 15:44:43.388 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/swagger-ui.css.map - null null
+2025-03-13 15:44:43.401 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/swagger-ui.css.map - 404 0 null 12.9635ms
+2025-03-13 15:44:43.407 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/swagger/swagger-ui.css.map, Response status code: 404
+2025-03-13 15:44:43.966 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-03-13 15:44:44.025 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json; charset=utf-8 59.7618ms
+2025-03-13 15:44:48.777 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Halls - application/json 18
+2025-03-13 15:44:48.781 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:44:48.829 +01:00 [INF] Handling CreateHallComand
+2025-03-13 15:44:48.831 +01:00 [INF] Property name : Ne
+2025-03-13 15:44:49.656 +01:00 [INF] Handled CreateHallComand with Ardalis.Result.Result`1[System.Guid] in 824 ms
+2025-03-13 15:44:49.663 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:44:49.673 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Halls - 200 null application/json; charset=utf-8 896.2218ms
+2025-03-13 15:53:09.033 +01:00 [INF] Registered 6 endpoints in 302 milliseconds.
+2025-03-13 15:53:09.223 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 15:53:09.224 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 15:53:09.230 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 15:53:09.330 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 15:53:09.331 +01:00 [INF] Hosting environment: Development
+2025-03-13 15:53:09.332 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 15:53:17.385 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.html - null null
+2025-03-13 15:53:17.558 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.html - 200 null text/html; charset=utf-8 174.1349ms
+2025-03-13 15:53:17.684 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-13 15:53:17.705 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 19.8195ms
+2025-03-13 15:53:17.721 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2025-03-13 15:53:17.758 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/swagger-ui.css.map - null null
+2025-03-13 15:53:17.768 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 47.0383ms
+2025-03-13 15:53:17.771 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/swagger-ui.css.map - 404 0 null 13.1818ms
+2025-03-13 15:53:17.791 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/swagger/swagger-ui.css.map, Response status code: 404
+2025-03-13 15:53:18.314 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-03-13 15:53:18.390 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json; charset=utf-8 77.1922ms
+2025-03-13 15:53:22.956 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Halls - application/json 6
+2025-03-13 15:53:22.960 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:53:23.052 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:53:23.055 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Halls - 400 null application/problem+json; charset=utf-8 98.639ms
+2025-03-13 15:53:49.375 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Halls - application/json 18
+2025-03-13 15:53:49.378 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:53:49.386 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:53:49.388 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Halls - 400 null application/problem+json; charset=utf-8 12.5668ms
+2025-03-13 15:55:45.605 +01:00 [INF] Registered 6 endpoints in 234 milliseconds.
+2025-03-13 15:55:45.795 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 15:55:45.797 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 15:55:45.801 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 15:55:45.880 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 15:55:45.881 +01:00 [INF] Hosting environment: Development
+2025-03-13 15:55:45.882 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 15:55:53.563 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-03-13 15:55:53.752 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 404 0 null 192.4809ms
+2025-03-13 15:55:53.765 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/, Response status code: 404
+2025-03-13 15:55:54.986 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-03-13 15:55:55.011 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 404 0 null 25.3062ms
+2025-03-13 15:55:55.017 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/, Response status code: 404
+2025-03-13 15:55:59.459 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.html - null null
+2025-03-13 15:55:59.501 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.html - 200 null text/html; charset=utf-8 41.5793ms
+2025-03-13 15:55:59.613 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-13 15:55:59.625 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 11.8481ms
+2025-03-13 15:55:59.654 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/swagger-ui.css.map - null null
+2025-03-13 15:55:59.660 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/swagger-ui.css.map - 404 0 null 6.0385ms
+2025-03-13 15:55:59.667 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/swagger/swagger-ui.css.map, Response status code: 404
+2025-03-13 15:55:59.669 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2025-03-13 15:55:59.705 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.8246ms
+2025-03-13 15:56:00.261 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-03-13 15:56:00.309 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json; charset=utf-8 47.9687ms
+2025-03-13 15:56:04.424 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Halls - application/json 18
+2025-03-13 15:56:04.427 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:56:04.500 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:56:04.502 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Halls - 400 null application/problem+json; charset=utf-8 78.2525ms
+2025-03-13 15:56:12.090 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Halls - application/json 22
+2025-03-13 15:56:12.093 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 15:56:12.108 +01:00 [INF] Handling CreateHallComand
+2025-03-13 15:56:12.110 +01:00 [INF] Property name : Sál 5
+2025-03-13 15:56:13.224 +01:00 [INF] Handled CreateHallComand with Ardalis.Result.Result`1[System.Guid] in 1112 ms
+2025-03-13 15:56:13.229 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 15:56:13.237 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Halls - 200 null application/json; charset=utf-8 1147.0127ms
+2025-03-13 18:28:14.873 +01:00 [INF] Registered 6 endpoints in 219 milliseconds.
+2025-03-13 18:28:15.063 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 18:28:15.064 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 18:28:15.069 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 18:28:15.161 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 18:28:15.162 +01:00 [INF] Hosting environment: Development
+2025-03-13 18:28:15.163 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 18:28:18.252 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-03-13 18:28:18.414 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 404 0 null 164.2195ms
+2025-03-13 18:28:18.428 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/, Response status code: 404
+2025-03-13 18:28:22.414 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Swagger - null null
+2025-03-13 18:28:22.453 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Swagger - 302 0 null 38.6341ms
+2025-03-13 18:28:22.478 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.html - null null
+2025-03-13 18:28:22.515 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.html - 200 null text/html; charset=utf-8 36.7785ms
+2025-03-13 18:28:22.651 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-13 18:28:22.659 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 8.1172ms
+2025-03-13 18:28:22.697 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2025-03-13 18:28:22.775 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 78.1789ms
+2025-03-13 18:28:22.880 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-03-13 18:28:22.943 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json; charset=utf-8 63.2655ms
+2025-03-13 18:28:40.170 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Halls - application/json 22
+2025-03-13 18:28:40.175 +01:00 [INF] Executing endpoint 'HTTP: POST /Halls'
+2025-03-13 18:28:40.279 +01:00 [INF] Handling CreateHallComand
+2025-03-13 18:28:40.281 +01:00 [INF] Property name : Sál 6
+2025-03-13 18:28:41.252 +01:00 [INF] Handled CreateHallComand with Ardalis.Result.Result`1[System.Guid] in 969 ms
+2025-03-13 18:28:41.261 +01:00 [INF] Executed endpoint 'HTTP: POST /Halls'
+2025-03-13 18:28:41.272 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Halls - 200 null application/json; charset=utf-8 1101.6208ms
+2025-03-13 18:30:13.206 +01:00 [INF] Request starting HTTP/2 PUT https://localhost:7254/Halls/Update - application/json 65
+2025-03-13 18:30:13.210 +01:00 [INF] Executing endpoint 'HTTP: PUT /Halls/Update'
+2025-03-13 18:30:13.270 +01:00 [INF] Handling UpdateHallComand
+2025-03-13 18:30:13.272 +01:00 [INF] Property Id : "8e8eabfc-6605-48e6-662e-08dd62547f3b"
+2025-03-13 18:30:13.274 +01:00 [INF] Property hallStatus : "OutOfOperation"
+2025-03-13 18:30:13.712 +01:00 [INF] Handled UpdateHallComand with Ardalis.Result.Result in 437 ms
+2025-03-13 18:30:13.717 +01:00 [INF] Executed endpoint 'HTTP: PUT /Halls/Update'
+2025-03-13 18:30:13.719 +01:00 [INF] Request finished HTTP/2 PUT https://localhost:7254/Halls/Update - 200 null application/json; charset=utf-8 513.4767ms
+2025-03-13 18:30:33.596 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Rows - application/json 69
+2025-03-13 18:30:33.606 +01:00 [INF] Executing endpoint 'HTTP: POST /Rows'
+2025-03-13 18:30:33.631 +01:00 [INF] Handling CreateRowComand
+2025-03-13 18:30:33.634 +01:00 [INF] Property Number : 1
+2025-03-13 18:30:33.635 +01:00 [INF] Property HallId : "8e8eabfc-6605-48e6-662e-08dd62547f3b"
+2025-03-13 18:30:33.715 +01:00 [INF] Handled CreateRowComand with Ardalis.Result.Result`1[System.Guid] in 79 ms
+2025-03-13 18:30:33.721 +01:00 [INF] Executed endpoint 'HTTP: POST /Rows'
+2025-03-13 18:30:33.722 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Rows - 200 null application/json; charset=utf-8 125.7708ms
+2025-03-13 18:30:40.757 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Rows/GetByHallId/8E8EABFC-6605-48E6-662E-08DD62547F3B - null null
+2025-03-13 18:30:40.760 +01:00 [INF] Executing endpoint 'HTTP: GET /Rows/GetByHallId/{Id}'
+2025-03-13 18:30:40.767 +01:00 [INF] Handling GetByHallIdCommand
+2025-03-13 18:30:40.768 +01:00 [INF] Property HallId : "8e8eabfc-6605-48e6-662e-08dd62547f3b"
+2025-03-13 18:30:40.833 +01:00 [INF] Handled GetByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 63 ms
+2025-03-13 18:30:40.837 +01:00 [INF] Executed endpoint 'HTTP: GET /Rows/GetByHallId/{Id}'
+2025-03-13 18:30:40.838 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Rows/GetByHallId/8E8EABFC-6605-48E6-662E-08DD62547F3B - 200 null application/json; charset=utf-8 81.353ms
+2025-03-13 18:31:46.864 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Seats - application/json 68
+2025-03-13 18:31:46.870 +01:00 [INF] Executing endpoint 'HTTP: POST /Seats'
+2025-03-13 18:31:46.878 +01:00 [INF] Handling CreateSeatCommand
+2025-03-13 18:31:46.879 +01:00 [INF] Property Number : 1
+2025-03-13 18:31:46.880 +01:00 [INF] Property RowId : "df1ea314-f9b7-42ad-517a-08dd6254c282"
+2025-03-13 18:31:46.922 +01:00 [INF] Handled CreateSeatCommand with Ardalis.Result.Result`1[System.Guid] in 40 ms
+2025-03-13 18:31:46.925 +01:00 [INF] Executed endpoint 'HTTP: POST /Seats'
+2025-03-13 18:31:46.926 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Seats - 200 null application/json; charset=utf-8 61.8928ms
+2025-03-13 18:31:47.601 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Seats - application/json 68
+2025-03-13 18:31:47.613 +01:00 [INF] Executing endpoint 'HTTP: POST /Seats'
+2025-03-13 18:31:47.615 +01:00 [INF] Handling CreateSeatCommand
+2025-03-13 18:31:47.616 +01:00 [INF] Property Number : 1
+2025-03-13 18:31:47.617 +01:00 [INF] Property RowId : "df1ea314-f9b7-42ad-517a-08dd6254c282"
+2025-03-13 18:31:47.655 +01:00 [INF] Handled CreateSeatCommand with Ardalis.Result.Result`1[System.Guid] in 34 ms
+2025-03-13 18:31:47.657 +01:00 [INF] Executed endpoint 'HTTP: POST /Seats'
+2025-03-13 18:31:47.658 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Seats - 200 null application/json; charset=utf-8 56.5124ms
+2025-03-13 18:32:13.479 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Seats/GetByHallId/8E8EABFC-6605-48E6-662E-08DD62547F3B - null null
+2025-03-13 18:32:13.483 +01:00 [INF] Executing endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 18:32:13.487 +01:00 [INF] Handling GetSeatByHallIdCommand
+2025-03-13 18:32:13.487 +01:00 [INF] Property HallId : "8e8eabfc-6605-48e6-662e-08dd62547f3b"
+2025-03-13 18:32:13.502 +01:00 [INF] Handled GetSeatByHallIdCommand with Ardalis.Result.Result`1[System.Collections.Generic.List`1[System.Guid]] in 13 ms
+2025-03-13 18:32:13.503 +01:00 [INF] Executed endpoint 'HTTP: GET /Seats/GetByHallId/{Id}'
+2025-03-13 18:32:13.504 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Seats/GetByHallId/8E8EABFC-6605-48E6-662E-08DD62547F3B - 200 null application/json; charset=utf-8 24.894ms
+2025-03-13 18:48:27.412 +01:00 [INF] Registered 6 endpoints in 227 milliseconds.
+2025-03-13 18:48:27.600 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-13 18:48:27.601 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-13 18:48:27.606 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-13 18:48:27.690 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-13 18:48:27.692 +01:00 [INF] Hosting environment: Development
+2025-03-13 18:48:27.693 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-13 18:48:34.753 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-03-13 18:48:34.916 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 404 0 null 164.587ms
+2025-03-13 18:48:34.933 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/, Response status code: 404
+2025-03-13 18:48:39.317 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Swagger - null null
+2025-03-13 18:48:39.335 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Swagger - 302 0 null 17.9368ms
+2025-03-13 18:48:39.350 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.html - null null
+2025-03-13 18:48:39.398 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.html - 200 null text/html; charset=utf-8 47.9404ms
+2025-03-13 18:48:39.499 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-13 18:48:39.508 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 8.7829ms
+2025-03-13 18:48:39.534 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2025-03-13 18:48:39.576 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 41.1696ms
+2025-03-13 18:48:39.720 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-03-13 18:48:39.762 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json; charset=utf-8 42.6496ms
+2025-03-13 18:48:49.916 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7254/Rows - application/json 69
+2025-03-13 18:48:49.922 +01:00 [INF] Executing endpoint 'HTTP: POST /Rows'
+2025-03-13 18:48:50.001 +01:00 [INF] Handling CreateRowComand
+2025-03-13 18:48:50.003 +01:00 [INF] Property Number : 1
+2025-03-13 18:48:50.004 +01:00 [INF] Property HallId : "6eeba3f4-6746-4e69-5286-08dd620c785c"
+2025-03-13 18:48:51.097 +01:00 [INF] Handled CreateRowComand with Ardalis.Result.Result`1[System.Guid] in 1090 ms
+2025-03-13 18:48:51.103 +01:00 [INF] Executed endpoint 'HTTP: POST /Rows'
+2025-03-13 18:48:51.111 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7254/Rows - 204 null null 1195.0841ms

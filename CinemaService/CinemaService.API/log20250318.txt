@@ -1,0 +1,140 @@
+2025-03-18 08:57:08.037 +01:00 [INF] Registered 9 endpoints in 246 milliseconds.
+2025-03-18 08:57:08.224 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 08:57:08.225 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 08:57:08.231 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 08:57:08.726 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 08:57:08.727 +01:00 [INF] Hosting environment: Development
+2025-03-18 08:57:08.728 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-18 09:14:00.207 +01:00 [INF] Registered 9 endpoints in 198 milliseconds.
+2025-03-18 09:14:00.385 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 09:14:00.387 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 09:14:00.391 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 09:14:00.480 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:14:00.481 +01:00 [INF] Hosting environment: Development
+2025-03-18 09:14:00.482 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-18 09:17:37.109 +01:00 [INF] Registered 9 endpoints in 226 milliseconds.
+2025-03-18 09:17:37.305 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 09:17:37.306 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 09:17:37.310 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 09:17:37.390 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:17:37.391 +01:00 [INF] Hosting environment: Development
+2025-03-18 09:17:37.391 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-18 09:19:24.853 +01:00 [INF] Registered 9 endpoints in 191 milliseconds.
+2025-03-18 09:19:25.015 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 09:19:25.016 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 09:19:25.020 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 09:19:25.093 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:19:25.094 +01:00 [INF] Hosting environment: Development
+2025-03-18 09:19:25.095 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-18 09:20:05.966 +01:00 [INF] Registered 9 endpoints in 213 milliseconds.
+2025-03-18 09:20:06.144 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 09:20:06.145 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 09:20:06.148 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 09:20:06.220 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:20:06.221 +01:00 [INF] Hosting environment: Development
+2025-03-18 09:20:06.221 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-18 09:20:27.748 +01:00 [INF] Registered 9 endpoints in 195 milliseconds.
+2025-03-18 09:20:27.944 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 09:20:27.946 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 09:20:27.950 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 09:20:28.017 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:20:28.018 +01:00 [INF] Hosting environment: Development
+2025-03-18 09:20:28.019 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-18 09:20:59.025 +01:00 [INF] Registered 9 endpoints in 187 milliseconds.
+2025-03-18 09:20:59.193 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 09:20:59.194 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 09:20:59.199 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 09:20:59.273 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:20:59.274 +01:00 [INF] Hosting environment: Development
+2025-03-18 09:20:59.275 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-18 09:21:51.038 +01:00 [INF] Registered 9 endpoints in 215 milliseconds.
+2025-03-18 09:21:51.239 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 09:21:51.240 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 09:21:51.244 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 09:21:51.326 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:21:51.327 +01:00 [INF] Hosting environment: Development
+2025-03-18 09:21:51.328 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-18 09:22:09.725 +01:00 [INF] Registered 9 endpoints in 660 milliseconds.
+2025-03-18 09:22:10.102 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 09:22:10.104 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 09:22:10.116 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 09:22:11.334 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:22:11.336 +01:00 [INF] Hosting environment: Development
+2025-03-18 09:22:11.338 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-18 09:22:33.229 +01:00 [INF] Registered 9 endpoints in 576 milliseconds.
+2025-03-18 09:22:33.748 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 09:22:33.750 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 09:22:33.760 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 09:22:34.510 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:22:34.511 +01:00 [INF] Hosting environment: Development
+2025-03-18 09:22:34.513 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-18 09:38:49.978 +01:00 [INF] Registered 9 endpoints in 200 milliseconds.
+2025-03-18 09:38:50.134 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 09:38:50.136 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 09:38:50.140 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 09:38:50.221 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:38:50.222 +01:00 [INF] Hosting environment: Development
+2025-03-18 09:38:50.224 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-18 09:38:54.312 +01:00 [INF] Registered 9 endpoints in 204 milliseconds.
+2025-03-18 09:38:54.494 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 09:38:54.495 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 09:38:54.499 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 09:38:54.970 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:38:54.971 +01:00 [INF] Hosting environment: Development
+2025-03-18 09:38:54.971 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-18 09:39:13.122 +01:00 [INF] Registered 9 endpoints in 187 milliseconds.
+2025-03-18 09:39:13.294 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 09:39:13.296 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 09:39:13.300 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 09:39:13.386 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:39:13.387 +01:00 [INF] Hosting environment: Development
+2025-03-18 09:39:13.388 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-18 09:40:17.575 +01:00 [INF] Registered 9 endpoints in 174 milliseconds.
+2025-03-18 09:40:17.730 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 09:40:17.732 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 09:40:17.736 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 09:40:17.805 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:40:17.806 +01:00 [INF] Hosting environment: Development
+2025-03-18 09:40:17.807 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-18 09:40:42.156 +01:00 [INF] Registered 9 endpoints in 212 milliseconds.
+2025-03-18 09:40:42.312 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 09:40:42.313 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 09:40:42.317 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 09:40:42.390 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:40:42.391 +01:00 [INF] Hosting environment: Development
+2025-03-18 09:40:42.392 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-18 09:41:52.210 +01:00 [INF] Registered 9 endpoints in 195 milliseconds.
+2025-03-18 09:41:52.382 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 09:41:52.383 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 09:41:52.386 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 09:41:52.462 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:41:52.462 +01:00 [INF] Hosting environment: Development
+2025-03-18 09:41:52.463 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-18 09:42:15.178 +01:00 [INF] Registered 9 endpoints in 180 milliseconds.
+2025-03-18 09:42:15.344 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 09:42:15.346 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 09:42:15.351 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 09:42:15.427 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:42:15.428 +01:00 [INF] Hosting environment: Development
+2025-03-18 09:42:15.429 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-18 09:42:39.557 +01:00 [INF] Registered 9 endpoints in 186 milliseconds.
+2025-03-18 09:42:39.725 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 09:42:39.727 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 09:42:39.730 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 09:42:39.806 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:42:39.807 +01:00 [INF] Hosting environment: Development
+2025-03-18 09:42:39.807 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-18 09:42:49.730 +01:00 [INF] Registered 9 endpoints in 199 milliseconds.
+2025-03-18 09:42:49.910 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 09:42:49.911 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 09:42:49.915 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 09:42:49.993 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:42:49.994 +01:00 [INF] Hosting environment: Development
+2025-03-18 09:42:49.994 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-18 09:43:42.703 +01:00 [INF] Registered 9 endpoints in 199 milliseconds.
+2025-03-18 09:43:42.871 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-18 09:43:42.872 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-18 09:43:42.877 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 09:43:42.958 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:43:42.959 +01:00 [INF] Hosting environment: Development
+2025-03-18 09:43:42.959 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API

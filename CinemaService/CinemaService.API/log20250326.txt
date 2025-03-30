@@ -1,0 +1,48 @@
+2025-03-26 10:02:24.790 +01:00 [INF] Registered 11 endpoints in 264 milliseconds.
+2025-03-26 10:02:25.047 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-26 10:02:25.050 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-26 10:02:25.057 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-26 10:02:25.157 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-26 10:02:25.158 +01:00 [INF] Hosting environment: Development
+2025-03-26 10:02:25.159 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-26 10:57:42.671 +01:00 [INF] Registered 11 endpoints in 243 milliseconds.
+2025-03-26 10:57:42.933 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-26 10:57:42.935 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-26 10:57:42.940 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-26 10:57:43.034 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-26 10:57:43.035 +01:00 [INF] Hosting environment: Development
+2025-03-26 10:57:43.036 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-26 11:03:42.659 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/ - null null
+2025-03-26 11:03:42.790 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/ - 404 0 null 132.0414ms
+2025-03-26 11:03:42.805 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7254/, Response status code: 404
+2025-03-26 11:03:44.785 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/Swagger - null null
+2025-03-26 11:03:44.796 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/Swagger - 302 0 null 11.0002ms
+2025-03-26 11:03:44.805 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.html - null null
+2025-03-26 11:03:44.838 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.html - 200 null text/html; charset=utf-8 33.5849ms
+2025-03-26 11:03:44.910 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-26 11:03:44.918 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 13786 application/javascript; charset=utf-8 7.9791ms
+2025-03-26 11:03:44.934 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2025-03-26 11:03:44.963 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 28.1631ms
+2025-03-26 11:03:45.110 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2025-03-26 11:03:45.154 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json; charset=utf-8 44.5315ms
+2025-03-26 12:41:43.464 +01:00 [INF] Registered 11 endpoints in 292 milliseconds.
+2025-03-26 12:41:43.725 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-26 12:41:43.726 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-26 12:41:43.732 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-26 12:41:43.863 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-26 12:41:43.864 +01:00 [INF] Hosting environment: Development
+2025-03-26 12:41:43.865 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-26 13:02:46.169 +01:00 [INF] Registered 11 endpoints in 251 milliseconds.
+2025-03-26 13:02:46.348 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-26 13:02:46.350 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-26 13:02:46.355 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-26 13:02:46.430 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-26 13:02:46.433 +01:00 [INF] Hosting environment: Development
+2025-03-26 13:02:46.433 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
+2025-03-26 15:25:31.869 +01:00 [INF] Registered 11 endpoints in 230 milliseconds.
+2025-03-26 15:25:32.044 +01:00 [INF] Now listening on: https://localhost:7254
+2025-03-26 15:25:32.045 +01:00 [INF] Now listening on: http://localhost:5279
+2025-03-26 15:25:32.049 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-26 15:25:32.127 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-26 15:25:32.127 +01:00 [INF] Hosting environment: Development
+2025-03-26 15:25:32.128 +01:00 [INF] Content root path: C:\Users\Alexandr.Baron\source\repos\kino-cinema-service\RegistrationService\CinemaService.API
